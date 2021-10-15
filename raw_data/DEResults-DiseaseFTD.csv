@@ -1,0 +1,683 @@
+﻿,Log2 fold change,std error (log2),Lower confidence limit (log2),Upper confidence limit (log2),Linear fold change,Lower confidence limit (linear),Upper confidence limit (linear),P-value,BY.p.value,method,Gene.sets,probe.ID
+AKT3-mRNA,-0.891,0.13,-1.15,-0.636,0.539,0.452,0.643,1.16E-06,0.00514,lm.nb,MAPK & PI3K,NM_005465.4:287
+MAPK9-mRNA,-1.17,0.189,-1.54,-0.799,0.445,0.344,0.575,4.79E-06,0.00514,lm.nb,MAPK & PI3K,NM_001135044.1:268
+ADCYAP1R1-mRNA,1.18,0.192,0.807,1.56,2.27,1.75,2.94,5.01E-06,0.00514,lm.nb,"Astrocyte Markers, Neuroactive Ligands and Receptors, Neurotrophin Signaling",NM_001118.3:935
+GAS7-mRNA,-1.06,0.176,-1.4,-0.713,0.48,0.378,0.61,7.17E-06,0.00514,lm.nb,"Neurogenesis, Primed Microglia",NM_201433.2:690
+GSN-mRNA,1.7,0.283,1.14,2.25,3.25,2.21,4.77,7.21E-06,0.00514,lm.nb,"Cytoskeletal Dynamics, Oligodendrocyte DifferentiationMaturation, Phagocytosis",NM_000177.4:1075
+HK1-mRNA,-0.707,0.121,-0.944,-0.47,0.613,0.52,0.722,9.97E-06,0.00514,lm.nb,Glucose Metabolism,NM_033496.2:1900
+NRCAM-mRNA,-0.697,0.12,-0.932,-0.463,0.617,0.524,0.726,1.06E-05,0.00514,lm.nb,"Astrocyte Markers, Cell Migration, Cytoskeletal Dynamics, Neurogenesis",NM_005010.4:875
+GNB1-mRNA,-0.433,0.0749,-0.58,-0.286,0.741,0.669,0.82,1.19E-05,0.00514,loglinear,"Cannabinoid Signaling, Cholinergic Synapse, Dopaminergic Synapse, GABAergic Synapse, Glutamatergic Synapse, Serotonergic Synapse",NM_001282539.1:670
+RTN4-mRNA,-1.16,0.202,-1.56,-0.767,0.446,0.339,0.587,1.23E-05,0.00514,lm.nb,"Blood Brain Barrier, Neurogenesis",NM_007008.2:275
+GRN-mRNA,0.849,0.148,0.558,1.14,1.8,1.47,2.2,1.31E-05,0.00514,lm.nb,"Astrocyte DifferentiationFunction, Microglia Neurodegenerative Phenotype (MGnD), Neurogenesis, Primed Microglia",NM_002087.2:546
+UBE2N-mRNA,-0.825,0.144,-1.11,-0.543,0.564,0.464,0.687,1.35E-05,0.00514,lm.nb,Antigen Processing and Presentation,NM_003348.4:357
+GFAP-mRNA,2.78,0.49,1.82,3.74,6.86,3.53,13.4,1.51E-05,0.00514,lm.nb,"Astrocyte DifferentiationFunction, Astrocyte Markers, Cytoskeletal Dynamics, JAK-STAT",NM_002055.4:589
+HSD17B4-mRNA,0.49,0.0868,0.32,0.66,1.4,1.25,1.58,1.59E-05,0.00514,lm.nb,Lipid Metabolism,NM_000414.3:2235
+VDAC1-mRNA,-0.936,0.166,-1.26,-0.611,0.523,0.417,0.655,1.61E-05,0.00514,lm.nb,"Autophagy, Calcium Signaling",NM_003374.3:755
+PLXDC2-mRNA,1.12,0.198,0.727,1.5,2.17,1.66,2.83,1.63E-05,0.00514,lm.nb,Microglial Markers,NM_032812.7:685
+C4A/B-mRNA,2.75,0.493,1.78,3.71,6.71,3.43,13.1,1.89E-05,0.00514,lm.nb,"Astrocyte Markers, Complement System, Cytoskeletal Dynamics",NM_007293.2:1217
+ELOC-mRNA,-1.14,0.205,-1.54,-0.738,0.454,0.343,0.599,1.91E-05,0.00514,lm.nb,"Antigen Processing and Presentation, Hypoxia",NM_001204857.1:124
+SPARC-mRNA,1.82,0.328,1.17,2.46,3.52,2.26,5.5,2.04E-05,0.00514,lm.nb,"Homeostatic Microglia, Primed Microglia",NM_003118.3:974
+BRAF-mRNA,-0.525,0.0952,-0.712,-0.339,0.695,0.61,0.791,2.11E-05,0.00514,lm.nb,MAPK & PI3K,NM_004333.3:565
+EGFR-mRNA,1.18,0.213,0.759,1.59,2.26,1.69,3.02,2.12E-05,0.00514,lm.nb,"Astrocyte DifferentiationFunction, MAPK & PI3K, Neurogenesis",NM_201282.1:1354
+RIMS1-mRNA,-1.91,0.347,-2.59,-1.22,0.267,0.167,0.428,2.27E-05,0.00517,lm.nb,"Cannabinoid Signaling, Cholinergic Synapse, Dopaminergic Synapse, GABAergic Synapse, Glutamatergic Synapse",NM_001168410.1:2305
+EGR1-mRNA,-1.85,0.338,-2.51,-1.19,0.277,0.175,0.439,2.35E-05,0.00517,lm.nb,"Cytokines, Interferon Signaling, Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers",NM_001964.2:838
+SCP2-mRNA,0.74,0.136,0.473,1.01,1.67,1.39,2.01,2.58E-05,0.00533,lm.nb,Lipid Metabolism,NM_001007100.2:405
+AQP4-mRNA,1.27,0.235,0.812,1.73,2.42,1.76,3.32,2.64E-05,0.00533,lm.nb,Astrocyte Markers,NM_004028.4:1169
+GLRA3-mRNA,-1.41,0.261,-1.92,-0.897,0.377,0.264,0.537,2.82E-05,0.00546,lm.nb,Neuroactive Ligands and Receptors,NM_006529.3:492
+NUAK1-mRNA,-1.51,0.283,-2.06,-0.954,0.351,0.239,0.516,3.24E-05,0.00603,lm.nb,Primed Microglia,NM_014840.2:1914
+MAFB-mRNA,0.973,0.186,0.608,1.34,1.96,1.52,2.53,4.11E-05,0.00647,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers",NM_005461.4:1231
+CAMK4-mRNA,-1.28,0.245,-1.76,-0.799,0.412,0.295,0.575,4.13E-05,0.00647,lm.nb,Calcium Signaling,NM_001744.3:1220
+ANAPC1-mRNA,-0.656,0.126,-0.902,-0.409,0.635,0.535,0.753,4.20E-05,0.00647,lm.nb,Cell Cycle,NM_022662.2:1990
+SOX9-mRNA,1.34,0.258,0.839,1.85,2.54,1.79,3.61,4.22E-05,0.00647,lm.nb,"Astrocyte Markers, Neurogenesis, Oligodendrocyte DifferentiationMaturation",NM_000346.3:868
+GABRA4-mRNA,-1.2,0.231,-1.65,-0.749,0.435,0.318,0.595,4.26E-05,0.00647,lm.nb,"Cannabinoid Signaling, GABAergic Synapse, Neuroactive Ligands and Receptors",NM_000809.2:1545
+STXBP1-mRNA,-1.22,0.236,-1.68,-0.76,0.429,0.311,0.59,4.50E-05,0.00647,lm.nb,Neurogenesis,NM_001032221.3:1620
+ABI2-mRNA,-0.536,0.103,-0.738,-0.333,0.69,0.6,0.794,4.50E-05,0.00647,lm.nb,"Angiogenesis, Neurogenesis",NM_005759.5:1160
+TLR4-mRNA,1.46,0.283,0.91,2.02,2.76,1.88,4.05,4.54E-05,0.00647,lm.nb,"Apoptosis, Astrocyte DifferentiationFunction, NF-kappaB Signaling, NO Metabolism and Signaling",NM_138554.2:2570
+FCGRT-mRNA,1.42,0.274,0.88,1.96,2.67,1.84,3.88,4.69E-05,0.0065,lm.nb,Astrocyte Markers,XM_011526628.1:205
+DNAJC5-mRNA,-0.915,0.178,-1.26,-0.566,0.53,0.416,0.676,5.07E-05,0.00679,lm.nb,"GABAergic Synapse, Proteotoxic Stress",NM_025219.3:230
+SPI1-mRNA,1.2,0.235,0.741,1.66,2.3,1.67,3.16,5.31E-05,0.00679,lm.nb,Microglia Neurodegenerative Phenotype (MGnD),NM_003120.1:730
+CSF1R-mRNA,1.53,0.3,0.945,2.12,2.9,1.93,4.35,5.37E-05,0.00679,lm.nb,"Cytokines, Homeostatic Microglia, Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Primed Microglia",NM_005211.3:455
+CAMK2A-mRNA,-1.29,0.253,-1.78,-0.793,0.409,0.29,0.577,5.47E-05,0.00679,lm.nb,Calcium Signaling,NM_001363989.1:1392
+ACSL4-mRNA,-1.19,0.233,-1.64,-0.729,0.44,0.32,0.603,5.63E-05,0.00682,lm.nb,"Lipid Metabolism, Neurogenesis",NM_004458.2:385
+PLXNB3-mRNA,1.79,0.353,1.1,2.48,3.46,2.14,5.59,5.79E-05,0.00684,lm.nb,Neurogenesis,NM_001163257.1:3663
+PAK1-mRNA,-1.5,0.297,-2.08,-0.918,0.353,0.236,0.529,6.09E-05,0.00689,lm.nb,"Cell Migration, Cytoskeletal Dynamics, MAPK & PI3K, Neurogenesis, Phagocytosis, T-cell signaling",NM_002576.3:975
+GSK3B-mRNA,-0.558,0.111,-0.775,-0.342,0.679,0.584,0.789,6.12E-05,0.00689,lm.nb,"Cell Cycle, Cytoskeletal Dynamics, Neurogenesis, Neurotrophin Signaling, Wnt Signaling",NM_002093.2:925
+RAB3A-mRNA,-1.8,0.36,-2.5,-1.09,0.288,0.176,0.469,6.93E-05,0.00763,lm.nb,"GABAergic Synapse, Glutamatergic Synapse",NM_002866.4:177
+RASGRF1-mRNA,-1.12,0.231,-1.58,-0.669,0.459,0.335,0.629,9.72E-05,0.0105,lm.nb,"MAPK & PI3K, Neurogenesis",NM_001145648.1:3444
+PMP22-mRNA,1,0.208,0.593,1.41,2,1.51,2.65,0.000105,0.0108,lm.nb,Myelogenesis,NM_000304.3:417
+IGFBP5-mRNA,1.52,0.316,0.902,2.14,2.87,1.87,4.41,0.000106,0.0108,lm.nb,Insulin Signaling,NM_000599.3:1188
+RAB6B-mRNA,-1.09,0.228,-1.54,-0.648,0.469,0.344,0.638,0.000107,0.0108,lm.nb,Primed Microglia,NM_016577.3:620
+INPP5F-mRNA,-1.41,0.294,-1.99,-0.834,0.376,0.252,0.561,0.000111,0.0108,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_001243194.1:1018
+PTK2B-mRNA,-1.37,0.287,-1.93,-0.811,0.386,0.262,0.57,0.000112,0.0108,lm.nb,"Calcium Signaling, Cytoskeletal Dynamics, NO Metabolism and Signaling",NM_004103.3:735
+TSPO-mRNA,1.12,0.244,0.646,1.6,2.18,1.56,3.04,0.000171,0.0162,lm.nb,"Neuroactive Ligands and Receptors, Neurogenesis, NO Metabolism and Signaling",NM_000714.6:482
+NPTN-mRNA,-1.01,0.22,-1.44,-0.575,0.498,0.369,0.671,0.000183,0.0167,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_001161363.1:1022
+GNG2-mRNA,-1.43,0.313,-2.05,-0.819,0.37,0.242,0.567,0.000184,0.0167,lm.nb,"Cannabinoid Signaling, Cholinergic Synapse, Dopaminergic Synapse, GABAergic Synapse, Glutamatergic Synapse, Primed Microglia, Serotonergic Synapse",NM_053064.5:396
+KCTD12-mRNA,1.19,0.261,0.682,1.71,2.29,1.6,3.26,0.000186,0.0167,lm.nb,GABAergic Synapse,NM_138444.2:450
+PKD2-mRNA,0.569,0.125,0.324,0.815,1.48,1.25,1.76,0.000194,0.0171,lm.nb,NO Metabolism and Signaling,NM_000297.2:2565
+ATP6V1A-mRNA,-1.19,0.263,-1.71,-0.678,0.437,0.306,0.625,0.000203,0.0175,lm.nb,"Ion Transport, Phagocytosis, Primed Microglia",NM_001690.2:1320
+SHC3-mRNA,-0.925,0.205,-1.33,-0.523,0.527,0.399,0.696,0.000213,0.0181,lm.nb,Neurotrophin Signaling,NM_016848.5:925
+PPP2CA-mRNA,-0.776,0.174,-1.12,-0.436,0.584,0.461,0.739,0.000236,0.0191,lm.nb,TGF-Beta Signaling,NM_002715.2:1075
+CLTC-mRNA,-0.658,0.147,-0.947,-0.369,0.634,0.519,0.774,0.000237,0.0191,lm.nb,"Gap Junctions, Wnt Signaling",NM_004859.2:290
+CACNA2D1-mRNA,-0.676,0.151,-0.973,-0.379,0.626,0.51,0.769,0.000237,0.0191,lm.nb,"Calcium Signaling, Ion Transport",NM_000722.2:335
+GABRG2-mRNA,-1.74,0.391,-2.5,-0.972,0.3,0.176,0.51,0.000248,0.0193,lm.nb,"Cannabinoid Signaling, GABAergic Synapse, Neuroactive Ligands and Receptors",NM_000816.3:872
+MEAF6-mRNA,-0.662,0.149,-0.954,-0.37,0.632,0.516,0.774,0.000254,0.0193,lm.nb,"Myelogenesis, Neurogenesis",NM_001270875.2:180
+MAPK1-mRNA,-0.604,0.136,-0.871,-0.337,0.658,0.547,0.792,0.000255,0.0193,lm.nb,MAPK & PI3K,NM_138957.2:430
+ATP8A2-mRNA,-1.28,0.289,-1.85,-0.715,0.412,0.278,0.609,0.000255,0.0193,lm.nb,"Microglial Markers, Neurogenesis, Primed Microglia",NM_016529.4:930
+GRIA3-mRNA,-0.98,0.221,-1.41,-0.546,0.507,0.375,0.685,0.000259,0.0193,lm.nb,"Cannabinoid Signaling, Dopaminergic Synapse, Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_000828.4:426
+PLAA-mRNA,-0.398,0.0903,-0.575,-0.221,0.759,0.671,0.858,0.000272,0.02,loglinear,"Neurogenesis, Proteotoxic Stress",NM_001031689.2:574
+ATP9A-mRNA,-0.356,0.0809,-0.514,-0.197,0.781,0.7,0.872,0.000277,0.02,lm.nb,Ion Transport,NM_006045.1:1200
+ZPR1-mRNA,-0.73,0.167,-1.06,-0.402,0.603,0.481,0.757,3.00E-04,0.0214,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_003904.3:1215
+SOX2-mRNA,0.849,0.195,0.466,1.23,1.8,1.38,2.35,0.000314,0.0216,lm.nb,Neurogenesis,NM_003106.3:1043
+TGFB1-mRNA,1.13,0.261,0.622,1.64,2.19,1.54,3.13,0.000314,0.0216,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), TGF-Beta Signaling",NM_000660.4:1438
+ACLY-mRNA,-0.63,0.145,-0.914,-0.345,0.646,0.531,0.787,0.000317,0.0216,lm.nb,Lipid Metabolism,NM_001096.2:3195
+TIMP2-mRNA,0.838,0.193,0.459,1.22,1.79,1.37,2.32,0.000322,0.0216,lm.nb,"Neurogenesis, Stage 2 DAM",NM_003255.4:397
+TANC2-mRNA,-0.76,0.176,-1.1,-0.416,0.591,0.465,0.75,0.000328,0.0216,lm.nb,Cytoskeletal Dynamics,NM_025185.3:2490
+PDHA1-mRNA,-0.401,0.0929,-0.584,-0.219,0.757,0.667,0.859,0.000332,0.0216,lm.nb,Glucose Metabolism,NM_000284.3:1080
+IL18-mRNA,1.96,0.454,1.07,2.85,3.89,2.1,7.22,0.000335,0.0216,lm.nb,"Astrocyte Markers, Cytokines",NM_001562.3:364
+ATP2A2-mRNA,-0.518,0.121,-0.755,-0.282,0.698,0.593,0.823,0.00035,0.0223,lm.nb,"Calcium Signaling, Ion Transport",NM_001681.3:1396
+CDK5R1-mRNA,-0.867,0.203,-1.26,-0.47,0.548,0.416,0.722,0.000365,0.0227,lm.nb,"Cytoskeletal Dynamics, Neurogenesis, Neurotrophin Signaling",NM_003885.2:418
+CSNK2A1/3-mRNA,-0.55,0.129,-0.803,-0.298,0.683,0.573,0.813,0.000366,0.0227,lm.nb,"NF-kappaB Signaling, Wnt Signaling",NM_001895.4:689
+MERTK-mRNA,0.984,0.231,0.532,1.44,1.98,1.45,2.71,0.000377,0.0231,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia",NM_006343.2:665
+ATP6V1D-mRNA,-0.765,0.181,-1.12,-0.41,0.588,0.46,0.752,0.000414,0.0248,lm.nb,"Ion Transport, Phagocytosis",NM_015994.2:390
+FIG4-mRNA,-0.587,0.139,-0.859,-0.315,0.666,0.551,0.804,0.000415,0.0248,lm.nb,"Myelogenesis, Neurogenesis",NM_014845.5:1060
+EPB41L3-mRNA,-1.11,0.266,-1.64,-0.592,0.462,0.322,0.663,0.000456,0.0268,lm.nb,"Cytoskeletal Dynamics, Myelogenesis",NM_012307.3:726
+MAPK8-mRNA,-0.731,0.175,-1.07,-0.388,0.603,0.475,0.764,0.000464,0.0268,lm.nb,MAPK & PI3K,NM_002750.2:945
+ADAM22-mRNA,-1.33,0.319,-1.96,-0.708,0.397,0.257,0.612,0.000465,0.0268,lm.nb,"Cytoskeletal Dynamics, Myelogenesis",NM_021723.3:2290
+B4GALT5-mRNA,-0.703,0.169,-1.03,-0.371,0.614,0.488,0.773,0.00049,0.0271,lm.nb,"Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_004776.3:930
+PRKACB-mRNA,-0.886,0.213,-1.3,-0.467,0.541,0.405,0.723,0.000496,0.0271,lm.nb,"Calcium Signaling, MAPK & PI3K, Wnt Signaling",NM_182948.2:805
+KPNA1-mRNA,-0.416,0.1,-0.613,-0.219,0.75,0.654,0.859,0.000499,0.0271,lm.nb,"Apoptosis, Interferon Signaling",NM_002264.2:1420
+ATP6V1C1-mRNA,-1.02,0.247,-1.51,-0.54,0.492,0.352,0.688,5.00E-04,0.0271,lm.nb,"Ion Transport, Phagocytosis, Primed Microglia",NM_001007254.1:800
+RFX4-mRNA,1.3,0.315,0.688,1.92,2.47,1.61,3.79,0.000502,0.0271,lm.nb,Astrocyte Markers,NM_213594.1:630
+RTN1-mRNA,-1.32,0.32,-1.95,-0.698,0.399,0.259,0.616,0.000503,0.0271,lm.nb,Neurogenesis,NM_021136.2:2400
+LAMP2-mRNA,0.881,0.215,0.459,1.3,1.84,1.37,2.47,0.000564,0.03,lm.nb,Autophagy,NM_002294.2:380
+HSP90AB1-mRNA,-0.686,0.168,-1.02,-0.357,0.622,0.495,0.781,0.000578,0.0304,lm.nb,"Cytoskeletal Dynamics, Inflammasome, Proteotoxic Stress",NM_007355.3:1530
+TJP1-mRNA,0.725,0.18,0.373,1.08,1.65,1.29,2.11,0.000647,0.033,lm.nb,"Gap Junctions, Primed Microglia",NM_175610.2:4065
+VDAC3-mRNA,-1.13,0.281,-1.68,-0.582,0.456,0.312,0.668,0.000652,0.033,lm.nb,Calcium Signaling,NM_001135694.2:870
+ENTPD1-mRNA,0.757,0.188,0.389,1.12,1.69,1.31,2.18,0.000652,0.033,lm.nb,Purinergic Signaling,NM_001098175.1:795
+DLAT-mRNA,-0.706,0.175,-1.05,-0.363,0.613,0.483,0.778,0.000654,0.033,lm.nb,Glucose Metabolism,NM_001931.5:1825
+ATP5MC3-mRNA,-0.714,0.178,-1.06,-0.366,0.609,0.479,0.776,0.000674,0.0334,lm.nb,Glucose Metabolism,NM_001002258.4:340
+SCOC-mRNA,-1.11,0.278,-1.66,-0.569,0.462,0.317,0.674,0.000687,0.0334,lm.nb,"Microglial Markers, Primed Microglia",NM_032547.3:285
+PSMA5-mRNA,-0.697,0.174,-1.04,-0.356,0.617,0.487,0.781,0.000694,0.0334,lm.nb,Antigen Processing and Presentation,NM_002790.2:235
+CD163-mRNA,2.06,0.513,1.05,3.06,4.16,2.07,8.35,0.000697,0.0334,lm.nb,,NM_004244.4:1630
+RHOB-mRNA,1.22,0.304,0.622,1.81,2.33,1.54,3.52,0.000697,0.0334,lm.nb,"Microglial Markers, Primed Microglia",NM_004040.2:870
+NLK-mRNA,-0.822,0.205,-1.22,-0.419,0.566,0.428,0.748,0.000703,0.0334,lm.nb,Wnt Signaling,NM_016231.4:618
+CYFIP2-mRNA,-0.748,0.187,-1.11,-0.381,0.595,0.462,0.768,0.000712,0.0335,lm.nb,"Angiogenesis, Neurogenesis",NM_001037333.1:2142
+GABRB3-mRNA,-1.16,0.292,-1.74,-0.592,0.446,0.3,0.664,0.000725,0.0338,lm.nb,"Cannabinoid Signaling, GABAergic Synapse, Neuroactive Ligands and Receptors, Serotonergic Synapse",NM_000814.5:448
+ACSL3-mRNA,-0.665,0.167,-0.993,-0.337,0.631,0.502,0.792,0.000754,0.0348,lm.nb,Lipid Metabolism,NM_203372.1:1219
+CTSS-mRNA,1.18,0.3,0.597,1.77,2.27,1.51,3.42,0.000796,0.0364,lm.nb,"Apoptosis, Homeostatic Microglia",NM_004079.3:685
+TXN-mRNA,-0.613,0.157,-0.921,-0.306,0.654,0.528,0.809,0.000863,0.0391,lm.nb,"Inflammasome, Oxidative & Nitrosative Stress, Primed Microglia",NM_003329.2:55
+DIAPH1-mRNA,-0.856,0.219,-1.29,-0.427,0.552,0.41,0.744,0.000874,0.0391,lm.nb,Cell Migration,NM_005219.4:1398
+S100A12-mRNA,2.33,0.592,1.17,3.49,5.04,2.25,11.3,0.00088,0.0391,Wald,Cytokines,NM_005621.1:260
+NWD1-mRNA,1.53,0.393,0.76,2.3,2.89,1.69,4.92,0.000895,0.0392,lm.nb,,NM_001007525.3:3302
+SEC61A2-mRNA,-0.715,0.184,-1.07,-0.355,0.609,0.475,0.782,0.000898,0.0392,lm.nb,"Antigen Processing and Presentation, Proteotoxic Stress",NM_001142627.1:768
+MAP2K4-mRNA,-0.749,0.193,-1.13,-0.371,0.595,0.458,0.773,0.000923,0.0399,lm.nb,MAPK & PI3K,NM_003010.2:771
+SERINC3-mRNA,-0.429,0.111,-0.646,-0.212,0.743,0.639,0.863,0.000936,0.0401,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia",NM_006811.2:185
+C1QA-mRNA,1.44,0.375,0.706,2.18,2.71,1.63,4.52,0.00102,0.0432,lm.nb,"Astrocyte DifferentiationFunction, Complement System, Homeostatic Microglia, Microglial Markers",NM_015991.2:718
+RAD23B-mRNA,-0.41,0.107,-0.62,-0.201,0.752,0.651,0.87,0.00103,0.0432,lm.nb,Proteotoxic Stress,NM_001244713.1:590
+SERPING1-mRNA,1.38,0.361,0.675,2.09,2.61,1.6,4.26,0.00105,0.0437,lm.nb,"A1 Astrocyte, Complement System",NM_000062.2:305
+CTSD-mRNA,0.395,0.103,0.193,0.598,1.32,1.14,1.51,0.00105,0.0437,lm.nb,"Apoptosis, Autophagy, Homeostatic Microglia, Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Stage 1 DAM",NM_001909.4:1270
+NKIRAS1-mRNA,-0.689,0.18,-1.04,-0.335,0.62,0.486,0.793,0.00107,0.0439,lm.nb,Cytokines,NM_020345.3:785
+SALL1-mRNA,0.958,0.251,0.466,1.45,1.94,1.38,2.73,0.00108,0.0442,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Neurogenesis",NM_002968.2:1120
+PLEKHB1-mRNA,1.24,0.325,0.6,1.87,2.36,1.52,3.67,0.00111,0.0447,lm.nb,,NM_021200.3:575
+PSMC6-mRNA,-0.583,0.154,-0.885,-0.281,0.667,0.541,0.823,0.00116,0.0463,lm.nb,Antigen Processing and Presentation,NM_002806.3:412
+PRKCI-mRNA,-0.439,0.116,-0.667,-0.212,0.738,0.63,0.864,0.00117,0.0464,lm.nb,"Insulin Signaling, Neurogenesis",NM_002740.5:408
+ATRN-mRNA,-0.479,0.127,-0.727,-0.231,0.718,0.604,0.852,0.00118,0.0464,lm.nb,Myelogenesis,NM_001207047.1:1544
+NDUFB5-mRNA,-0.918,0.243,-1.4,-0.441,0.529,0.38,0.736,0.00119,0.0465,lm.nb,Cannabinoid Signaling,NM_002492.3:502
+ATP6V0D1-mRNA,-0.733,0.195,-1.11,-0.352,0.601,0.462,0.784,0.00121,0.047,lm.nb,"Cytoskeletal Dynamics, Ion Transport, Phagocytosis",NM_004691.4:970
+ATP1B1-mRNA,-1.27,0.338,-1.93,-0.608,0.414,0.262,0.656,0.00124,0.0476,lm.nb,Ion Transport,NM_001677.3:190
+C3-mRNA,1.59,0.424,0.756,2.42,3,1.69,5.34,0.00128,0.0486,lm.nb,"Complement System, Neuroactive Ligands and Receptors, Primed Microglia",NM_000064.2:4396
+KCNQ3-mRNA,-1.1,0.295,-1.68,-0.525,0.466,0.312,0.695,0.00129,0.0486,lm.nb,"Cholinergic Synapse, Ion Transport",NM_004519.2:665
+NEFL-mRNA,-1.62,0.433,-2.47,-0.77,0.326,0.181,0.587,0.0013,0.0486,lm.nb,"Cytoskeletal Dynamics, Neurogenesis, Neuronal Markers",NM_006158.3:1112
+CPNE2-mRNA,0.764,0.206,0.361,1.17,1.7,1.28,2.25,0.00136,0.0506,lm.nb,Astrocyte Markers,NM_152727.5:1126
+TREM2-mRNA,1.34,0.361,0.631,2.05,2.53,1.55,4.13,0.00139,0.0515,lm.nb,"Astrocyte DifferentiationFunction, Microglia Neurodegenerative Phenotype (MGnD), Stage 2 DAM",NM_018965.3:355
+TMEM47-mRNA,0.894,0.242,0.42,1.37,1.86,1.34,2.58,0.00142,0.0523,lm.nb,Astrocyte Markers,NM_031442.4:700
+GABRD-mRNA,-1.21,0.33,-1.86,-0.566,0.432,0.276,0.676,0.0015,0.0545,lm.nb,"Cannabinoid Signaling, GABAergic Synapse, Neuroactive Ligands and Receptors",NM_000815.4:800
+TNFRSF21-mRNA,-0.584,0.16,-0.897,-0.272,0.667,0.537,0.828,0.00155,0.056,lm.nb,"Cytokines, Oligodendrocyte DifferentiationMaturation",NM_014452.3:735
+NAP1L2-mRNA,-1.72,0.47,-2.64,-0.795,0.304,0.161,0.576,0.00158,0.056,lm.nb,Neurogenesis,NM_021963.4:908
+GLRB-mRNA,-1.23,0.337,-1.89,-0.57,0.426,0.269,0.673,0.00158,0.056,lm.nb,Neuroactive Ligands and Receptors,NM_000824.4:355
+PPP3R1-mRNA,-1.18,0.322,-1.81,-0.545,0.442,0.285,0.685,0.00158,0.056,lm.nb,"Calcium Signaling, MAPK & PI3K",NM_000945.3:394
+DLGAP1-mRNA,-0.965,0.265,-1.48,-0.446,0.512,0.358,0.734,0.00161,0.0563,lm.nb,Glutamatergic Synapse,NM_001003809.2:1222
+GPRASP1-mRNA,-0.992,0.272,-1.53,-0.458,0.503,0.347,0.728,0.00162,0.0563,lm.nb,Primed Microglia,NM_001099410.1:1375
+UGT8-mRNA,1.11,0.308,0.511,1.72,2.17,1.42,3.29,0.00172,0.0596,lm.nb,"Myelogenesis, Oligodendrocyte Markers",NM_001128174.1:1135
+ERBB3-mRNA,1.06,0.293,0.484,1.63,2.08,1.4,3.1,0.00175,0.0597,lm.nb,"MAPK & PI3K, Neurogenesis",NM_001005915.1:261
+NCAN-mRNA,-0.89,0.247,-1.37,-0.407,0.54,0.386,0.754,0.00175,0.0597,lm.nb,Astrocyte Markers,NM_004386.3:3120
+ATF2-mRNA,-0.316,0.0876,-0.487,-0.144,0.804,0.713,0.905,0.00178,0.0602,lm.nb,"Cytokines, Dopaminergic Synapse, MAPK & PI3K",NM_001256091.1:668
+ARPC5L-mRNA,-0.674,0.188,-1.04,-0.307,0.627,0.486,0.809,0.00181,0.0605,lm.nb,Phagocytosis,NM_030978.3:1490
+STAT2-mRNA,0.493,0.137,0.224,0.762,1.41,1.17,1.7,0.00181,0.0605,lm.nb,JAK-STAT,NM_005419.3:1390
+SIRT5-mRNA,-0.3,0.0844,-0.466,-0.135,0.812,0.724,0.911,0.00197,0.0652,loglinear,Glucose Metabolism,NM_012241.3:300
+CALM1-mRNA,-0.629,0.178,-0.978,-0.281,0.646,0.508,0.823,0.00205,0.0675,lm.nb,Calcium Signaling,NM_006888.4:299
+SYT4-mRNA,-1.47,0.416,-2.29,-0.656,0.361,0.205,0.634,0.00207,0.0675,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_020783.3:1202
+GPM6A-mRNA,-0.754,0.213,-1.17,-0.336,0.593,0.444,0.792,0.00208,0.0675,lm.nb,"Astrocyte Markers, Cytoskeletal Dynamics, Neurogenesis",NM_005277.3:790
+CUL1-mRNA,-0.512,0.145,-0.796,-0.228,0.701,0.576,0.854,0.00211,0.0681,lm.nb,"Antigen Processing and Presentation, Cell Cycle, Circadian Signaling, Primed Microglia, Proteotoxic Stress, Wnt Signaling",NM_003592.2:1487
+GAS6-mRNA,0.54,0.153,0.239,0.841,1.45,1.18,1.79,0.00216,0.0689,lm.nb,Neurogenesis,NM_000820.2:1339
+ITM2A-mRNA,0.83,0.236,0.367,1.29,1.78,1.29,2.45,0.00216,0.0689,lm.nb,Blood Brain Barrier,NM_004867.4:988
+AP3M2-mRNA,-0.585,0.166,-0.911,-0.258,0.667,0.532,0.836,0.00219,0.0692,lm.nb,Primed Microglia,NM_001134296.1:655
+REEP5-mRNA,-0.529,0.151,-0.824,-0.233,0.693,0.565,0.851,0.00223,0.0697,lm.nb,Primed Microglia,NM_005669.4:280
+SH3GL2-mRNA,-1.6,0.457,-2.5,-0.705,0.329,0.177,0.613,0.00224,0.0697,lm.nb,"Antigen Processing and Presentation, Neurogenesis",NM_003026.2:381
+OLFM3-mRNA,-1.54,0.44,-2.4,-0.678,0.344,0.189,0.625,0.00225,0.0697,lm.nb,Neurogenesis,NM_058170.3:1154
+CD200-mRNA,-1.1,0.315,-1.72,-0.483,0.467,0.304,0.715,0.00228,0.0702,lm.nb,Cytoskeletal Dynamics,NM_005944.5:665
+YWHAE-mRNA,-0.529,0.152,-0.826,-0.232,0.693,0.564,0.851,0.0023,0.0703,lm.nb,"Cell Cycle, Neurogenesis, Neurotrophin Signaling",NM_006761.4:770
+ARPC2-mRNA,-0.32,0.0918,-0.5,-0.14,0.801,0.707,0.907,0.00233,0.0703,lm.nb,Phagocytosis,NM_152862.1:755
+BHLHE41-mRNA,0.63,0.181,0.276,0.985,1.55,1.21,1.98,0.00233,0.0703,lm.nb,"Circadian Signaling, Microglial Markers",NM_030762.2:655
+ABCE1-mRNA,-0.441,0.127,-0.689,-0.193,0.737,0.62,0.875,0.00234,0.0703,lm.nb,Interferon Signaling,NM_001040876.1:635
+PSMD14-mRNA,-0.417,0.12,-0.652,-0.182,0.749,0.636,0.881,0.00235,0.0704,lm.nb,Antigen Processing and Presentation,NM_005805.4:700
+SOX10-mRNA,0.99,0.285,0.431,1.55,1.99,1.35,2.93,0.00242,0.0716,lm.nb,"Myelogenesis, Neurogenesis, Oligodendrocyte DifferentiationMaturation, Oligodendrocyte Markers",NM_006941.3:1057
+GOT1-mRNA,-1.37,0.395,-2.14,-0.595,0.387,0.227,0.662,0.00242,0.0716,lm.nb,Glutamatergic Synapse,NM_002079.2:615
+ULK1-mRNA,-0.539,0.157,-0.846,-0.231,0.688,0.556,0.852,0.00265,0.0778,lm.nb,"Autophagy, Neurogenesis",NM_003565.1:465
+RLIM-mRNA,-0.717,0.211,-1.13,-0.303,0.608,0.457,0.81,0.00287,0.0835,lm.nb,Antigen Processing and Presentation,NM_183353.2:975
+AHCYL1-mRNA,0.899,0.265,0.38,1.42,1.86,1.3,2.67,0.00288,0.0835,lm.nb,"Angiogenesis, Astrocyte Markers",NM_001242674.1:1103
+YWHAH-mRNA,-1.44,0.427,-2.28,-0.604,0.368,0.206,0.658,0.00301,0.0867,lm.nb,"Cell Cycle, Neurogenesis",NM_003405.3:552
+RNF10-mRNA,-0.291,0.0864,-0.46,-0.121,0.818,0.727,0.919,0.00309,0.0887,lm.nb,"Myelogenesis, Neurogenesis",NM_014868.3:1910
+ABCA1-mRNA,1.23,0.369,0.507,1.95,2.35,1.42,3.87,0.0033,0.094,lm.nb,Lipid Metabolism,NM_005502.3:4048
+OPCML-mRNA,-1.05,0.317,-1.67,-0.433,0.482,0.313,0.741,0.00336,0.0951,lm.nb,Neurogenesis,NM_002545.4:873
+C1S-mRNA,1.14,0.342,0.466,1.81,2.2,1.38,3.5,0.0034,0.0956,lm.nb,Complement System,NM_001734.2:775
+CHN1-mRNA,-0.985,0.297,-1.57,-0.403,0.505,0.338,0.756,0.00342,0.0956,lm.nb,Neurogenesis,NM_001025201.3:1018
+CD74-mRNA,1.19,0.358,0.486,1.89,2.28,1.4,3.71,0.00344,0.0956,lm.nb,"Antigen Processing and Presentation, Microglial Markers, Primed Microglia",NM_001025158.2:189
+IP6K2-mRNA,0.361,0.109,0.148,0.575,1.28,1.11,1.49,0.00345,0.0956,lm.nb,Interferon Signaling,NM_001005910.2:277
+NSF-mRNA,-1.3,0.394,-2.08,-0.531,0.405,0.237,0.692,0.00351,0.0965,lm.nb,GABAergic Synapse,NM_006178.3:1762
+CSF1-mRNA,1.05,0.316,0.425,1.66,2.06,1.34,3.17,0.00353,0.0967,lm.nb,"Cytokines, Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia, Stage 2 DAM",NM_000757.4:823
+DNM3-mRNA,-0.483,0.146,-0.769,-0.196,0.716,0.587,0.873,0.00358,0.0969,lm.nb,"Antigen Processing and Presentation, Cytoskeletal Dynamics, Neurogenesis",NM_015569.3:750
+GRB2-mRNA,-0.428,0.13,-0.682,-0.174,0.743,0.623,0.887,0.00359,0.0969,lm.nb,"MAPK & PI3K, T-cell signaling",NM_002086.4:412
+RECK-mRNA,0.375,0.114,0.152,0.597,1.3,1.11,1.51,0.0036,0.0969,lm.nb,Blood Brain Barrier,NM_021111.2:360
+DMD-mRNA,0.343,0.104,0.138,0.547,1.27,1.1,1.46,0.00373,0.0999,lm.nb,"Blood Brain Barrier, Cytoskeletal Dynamics, Neurogenesis",NM_004014.2:1334
+ATP6V1B2-mRNA,-0.899,0.274,-1.44,-0.361,0.536,0.369,0.779,0.00378,0.0999,lm.nb,"Ion Transport, Phagocytosis, Primed Microglia",NM_001693.3:405
+KITLG-mRNA,-0.666,0.203,-1.07,-0.268,0.63,0.478,0.831,0.00379,0.0999,lm.nb,MAPK & PI3K,NM_003994.5:232
+GLS-mRNA,-0.843,0.257,-1.35,-0.338,0.558,0.393,0.791,0.00379,0.0999,lm.nb,"GABAergic Synapse, Glutamatergic Synapse",NM_014905.3:985
+PDHB-mRNA,-0.439,0.134,-0.702,-0.175,0.738,0.615,0.886,0.00388,0.101,lm.nb,Glucose Metabolism,NM_000925.3:555
+BTRC-mRNA,-0.41,0.126,-0.656,-0.164,0.753,0.635,0.893,0.0039,0.102,lm.nb,"Antigen Processing and Presentation, T-cell signaling, Wnt Signaling",NM_001256856.1:1004
+SYN2-mRNA,-1.27,0.394,-2.04,-0.498,0.415,0.243,0.708,0.00425,0.11,lm.nb,"Dopaminergic Synapse, Serotonergic Synapse",NM_003178.5:1292
+CD47-mRNA,-0.778,0.242,-1.25,-0.304,0.583,0.42,0.81,0.00434,0.112,lm.nb,NO Metabolism and Signaling,NM_001777.3:897
+S100A10-mRNA,1.36,0.424,0.532,2.19,2.57,1.45,4.58,0.00435,0.112,lm.nb,A2 Astrocyte,NM_002966.1:245
+PPP2R2B-mRNA,-0.528,0.165,-0.851,-0.205,0.694,0.554,0.868,0.00449,0.114,lm.nb,Dopaminergic Synapse,NM_181676.2:690
+ERLEC1-mRNA,-0.879,0.275,-1.42,-0.34,0.544,0.374,0.79,0.00455,0.115,lm.nb,Proteotoxic Stress,NM_001127397.2:810
+JAK1-mRNA,0.364,0.114,0.141,0.588,1.29,1.1,1.5,0.00455,0.115,lm.nb,JAK-STAT,NM_002227.1:285
+OLIG1-mRNA,0.973,0.307,0.372,1.57,1.96,1.29,2.98,0.00481,0.12,lm.nb,Oligodendrocyte DifferentiationMaturation,NM_138983.3:102
+BASP1-mRNA,-0.612,0.193,-0.99,-0.234,0.654,0.503,0.851,0.00482,0.12,lm.nb,Cytoskeletal Dynamics,NM_006317.4:675
+ELMO1-mRNA,-0.891,0.281,-1.44,-0.34,0.539,0.368,0.79,0.00482,0.12,lm.nb,"Angiogenesis, Primed Microglia",NM_014800.10:2226
+RORB-mRNA,-0.851,0.269,-1.38,-0.324,0.554,0.385,0.799,0.00485,0.12,lm.nb,"Circadian Signaling, Neurogenesis",NM_006914.3:1840
+SUGT1-mRNA,-0.314,0.0994,-0.509,-0.119,0.804,0.703,0.921,0.00493,0.121,lm.nb,Inflammasome,NM_001130912.1:1180
+SHANK2-mRNA,-0.537,0.17,-0.87,-0.204,0.689,0.547,0.868,0.00493,0.121,lm.nb,"Cytoskeletal Dynamics, Glutamatergic Synapse, Neurogenesis",NM_012309.4:1992
+SNAP25-mRNA,-1.24,0.393,-2.01,-0.47,0.423,0.248,0.722,0.00497,0.121,lm.nb,"Cholinergic Synapse, Dopaminergic Synapse, GABAergic Synapse, Glutamatergic Synapse, Serotonergic Synapse",NM_003081.3:284
+SLC9A6-mRNA,-1.14,0.361,-1.85,-0.432,0.454,0.278,0.741,0.00498,0.121,lm.nb,Neurogenesis,NM_001042537.1:370
+TUSC3-mRNA,-0.962,0.305,-1.56,-0.364,0.513,0.339,0.777,0.00502,0.121,lm.nb,Proteotoxic Stress,NM_006765.2:1015
+ATG5-mRNA,-0.819,0.26,-1.33,-0.309,0.567,0.398,0.807,0.00508,0.121,lm.nb,Autophagy,NM_004849.2:1104
+ATP6V1H-mRNA,-0.605,0.192,-0.982,-0.228,0.657,0.506,0.854,0.00509,0.121,lm.nb,"Ion Transport, Phagocytosis",NM_213620.1:490
+OLIG2-mRNA,0.629,0.201,0.235,1.02,1.55,1.18,2.03,0.00525,0.125,lm.nb,"Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_005806.3:400
+APP-mRNA,-0.525,0.168,-0.854,-0.196,0.695,0.553,0.873,0.00527,0.125,lm.nb,"Astrocyte DifferentiationFunction, Cytoskeletal Dynamics, Neurogenesis, Serotonergic Synapse",NM_000484.3:1725
+CYBB-mRNA,0.869,0.278,0.325,1.41,1.83,1.25,2.67,0.0053,0.125,lm.nb,"Angiogenesis, Antigen Processing and Presentation, Hypoxia, Microglia Neurodegenerative Phenotype (MGnD), Oxidative & Nitrosative Stress, Primed Microglia",NM_000397.3:1034
+ITGA7-mRNA,0.839,0.269,0.312,1.37,1.79,1.24,2.58,0.00535,0.125,lm.nb,Cell Migration,NM_002206.1:1170
+SYNGR1-mRNA,-0.556,0.178,-0.906,-0.207,0.68,0.534,0.866,0.00538,0.125,lm.nb,Neurogenesis,NM_145731.3:296
+SLPI-mRNA,2.48,0.798,0.919,4.05,5.59,1.89,16.5,0.0055,0.127,lm.nb,NF-kappaB Signaling,NM_003064.2:330
+MAL2-mRNA,-0.998,0.321,-1.63,-0.369,0.501,0.324,0.774,0.00552,0.127,lm.nb,Myelogenesis,NM_052886.2:203
+TSPAN7-mRNA,-0.8,0.257,-1.3,-0.296,0.574,0.405,0.815,0.00553,0.127,lm.nb,Astrocyte Markers,NM_004615.3:725
+LRRC7-mRNA,-1.57,0.507,-2.56,-0.574,0.337,0.169,0.672,0.00575,0.131,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_020794.2:2382
+ATP5PB-mRNA,-0.432,0.141,-0.708,-0.155,0.741,0.612,0.898,0.00614,0.14,lm.nb,Glucose Metabolism,NM_001688.4:645
+LGMN-mRNA,-0.755,0.248,-1.24,-0.27,0.592,0.423,0.829,0.00634,0.143,lm.nb,"Antigen Processing and Presentation, Microglial Markers",NM_001008530.2:522
+AMIGO1-mRNA,-0.619,0.204,-1.02,-0.218,0.651,0.494,0.859,0.00661,0.148,lm.nb,"Myelogenesis, Neurogenesis, Primed Microglia",NM_020703.2:1455
+DRD1-mRNA,-0.923,0.305,-1.52,-0.326,0.528,0.349,0.798,0.00663,0.148,lm.nb,"Astrocyte DifferentiationFunction, Calcium Signaling, Dopaminergic Synapse, Neuroactive Ligands and Receptors",NM_000794.3:1970
+MAP3K4-mRNA,-0.685,0.226,-1.13,-0.242,0.622,0.457,0.846,0.00664,0.148,lm.nb,MAPK & PI3K,NM_005922.2:1165
+KRAS-mRNA,-0.573,0.189,-0.944,-0.202,0.672,0.52,0.87,0.00669,0.149,lm.nb,"Astrocyte DifferentiationFunction, MAPK & PI3K",NM_033360.2:267
+JUN-mRNA,-0.818,0.271,-1.35,-0.287,0.567,0.393,0.82,0.0068,0.15,lm.nb,"MAPK & PI3K, Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Neurogenesis, T-cell signaling, Wnt Signaling",NM_002228.3:1952
+GRIA2-mRNA,-0.581,0.193,-0.959,-0.203,0.669,0.514,0.869,0.00693,0.153,lm.nb,"Cannabinoid Signaling, Dopaminergic Synapse, Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_001083620.1:865
+VIM-mRNA,1.27,0.423,0.443,2.1,2.41,1.36,4.29,0.00697,0.153,lm.nb,"Astrocyte DifferentiationFunction, Astrocyte Markers, Cytoskeletal Dynamics",NM_003380.2:694
+CLDN5-mRNA,0.997,0.332,0.346,1.65,2,1.27,3.13,0.00702,0.153,lm.nb,"Blood Brain Barrier, Cell Migration, Myelogenesis",NM_001130861.1:1422
+UNC79-mRNA,-0.506,0.169,-0.837,-0.176,0.704,0.56,0.885,0.00705,0.153,lm.nb,Ion Transport,NM_020818.5:1586
+GNAI1-mRNA,-0.721,0.24,-1.19,-0.25,0.607,0.438,0.841,0.0071,0.153,lm.nb,"Cannabinoid Signaling, Cholinergic Synapse, Dopaminergic Synapse, GABAergic Synapse, Glutamatergic Synapse, Serotonergic Synapse",NM_002069.4:670
+SERPINI1-mRNA,-1.01,0.336,-1.67,-0.349,0.497,0.315,0.785,0.00711,0.153,lm.nb,Neurogenesis,NM_005025.4:435
+WASF1-mRNA,-1.18,0.394,-1.95,-0.404,0.442,0.259,0.756,0.00733,0.157,lm.nb,"Angiogenesis, Phagocytosis",NM_001024934.1:1425
+GABRA3-mRNA,-0.988,0.332,-1.64,-0.337,0.504,0.321,0.792,0.00748,0.16,lm.nb,"Cannabinoid Signaling, GABAergic Synapse, Neuroactive Ligands and Receptors",NM_000808.3:241
+YWHAZ-mRNA,-0.691,0.232,-1.15,-0.236,0.619,0.452,0.849,0.00751,0.16,lm.nb,"Cell Cycle, Neurogenesis, Wnt Signaling",NM_001135699.1:515
+SCN8A-mRNA,-0.999,0.337,-1.66,-0.338,0.5,0.317,0.791,0.00768,0.162,lm.nb,"Ion Transport, Myelogenesis",NM_014191.2:945
+NCKAP1-mRNA,-0.568,0.192,-0.945,-0.191,0.675,0.52,0.876,0.00783,0.164,lm.nb,"Angiogenesis, Neurogenesis",NM_013436.3:2353
+GNG3-mRNA,-0.943,0.319,-1.57,-0.317,0.52,0.337,0.803,0.00785,0.164,lm.nb,"Cannabinoid Signaling, Cholinergic Synapse, Dopaminergic Synapse, GABAergic Synapse, Glutamatergic Synapse, Serotonergic Synapse",NM_012202.5:296
+KCNAB1-mRNA,-0.683,0.231,-1.14,-0.23,0.623,0.455,0.853,0.00786,0.164,lm.nb,Ion Transport,NM_003471.3:520
+CDC27-mRNA,-0.428,0.145,-0.712,-0.143,0.743,0.61,0.905,0.00797,0.166,lm.nb,Cell Cycle,NM_001256.3:2550
+PDE1A-mRNA,-1.26,0.429,-2.1,-0.42,0.417,0.233,0.747,0.00811,0.168,lm.nb,Calcium Signaling,NM_005019.3:1500
+GRIA4-mRNA,-0.721,0.246,-1.2,-0.24,0.607,0.434,0.847,0.00813,0.168,lm.nb,"Cannabinoid Signaling, Dopaminergic Synapse, Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_000829.3:475
+STAMBPL1-mRNA,-0.689,0.237,-1.15,-0.225,0.62,0.449,0.856,0.00867,0.178,lm.nb,Primed Microglia,NM_020799.2:1600
+ACAT2-mRNA,-0.725,0.25,-1.22,-0.235,0.605,0.431,0.849,0.00882,0.18,lm.nb,Lipid Metabolism,NM_005891.2:910
+UBE3C-mRNA,-0.299,0.103,-0.501,-0.0969,0.813,0.707,0.935,0.00884,0.18,lm.nb,Antigen Processing and Presentation,NM_014671.2:1222
+KLHL12-mRNA,-0.325,0.112,-0.545,-0.105,0.798,0.685,0.93,0.00898,0.182,lm.nb,Wnt Signaling,NM_021633.2:474
+MAPK10-mRNA,-0.781,0.27,-1.31,-0.252,0.582,0.403,0.84,0.009,0.182,lm.nb,MAPK & PI3K,NM_138981.2:450
+CD9-mRNA,0.979,0.34,0.313,1.64,1.97,1.24,3.13,0.00925,0.186,lm.nb,"Myelogenesis, Neurogenesis, Oligodendrocyte DifferentiationMaturation, Primed Microglia, Stage 2 DAM",NM_001769.2:405
+ABCB1-mRNA,0.81,0.282,0.258,1.36,1.75,1.2,2.57,0.00933,0.187,lm.nb,Blood Brain Barrier,NM_000927.3:3910
+SLC46A1-mRNA,0.551,0.192,0.175,0.926,1.46,1.13,1.9,0.00936,0.187,lm.nb,Ion Transport,NM_001242366.1:754
+PRKCZ-mRNA,-0.682,0.237,-1.15,-0.217,0.623,0.452,0.86,0.0094,0.187,lm.nb,"Insulin Signaling, Neurogenesis",NM_002744.4:943
+PLP1-mRNA,0.897,0.313,0.283,1.51,1.86,1.22,2.85,0.0096,0.19,lm.nb,"Astrocyte DifferentiationFunction, Myelogenesis, Oligodendrocyte DifferentiationMaturation, Oligodendrocyte Markers",NM_000533.3:758
+TRIM3-mRNA,-0.787,0.275,-1.33,-0.247,0.58,0.399,0.843,0.00973,0.192,lm.nb,Interferon Signaling,NM_006458.2:1880
+NDUFA10-mRNA,-0.381,0.134,-0.644,-0.119,0.768,0.64,0.921,0.00985,0.193,lm.nb,Cannabinoid Signaling,NM_004544.3:876
+HDAC2-mRNA,-0.54,0.19,-0.912,-0.168,0.688,0.531,0.89,0.00997,0.195,lm.nb,"Cell Cycle, Neurogenesis, Oligodendrocyte DifferentiationMaturation",NM_001527.1:930
+C1QC-mRNA,1.27,0.45,0.392,2.16,2.42,1.31,4.46,0.0103,0.201,lm.nb,Complement System,NM_001114101.1:608
+GABARAPL1-mRNA,-0.502,0.178,-0.85,-0.154,0.706,0.555,0.899,0.0104,0.202,lm.nb,"Autophagy, GABAergic Synapse",NM_031412.2:420
+RASA1-mRNA,-0.421,0.149,-0.714,-0.128,0.747,0.61,0.915,0.0106,0.203,lm.nb,"Angiogenesis, MAPK & PI3K",NM_002890.2:980
+THY1-mRNA,-0.749,0.265,-1.27,-0.228,0.595,0.415,0.854,0.0106,0.203,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_006288.4:1378
+GRIA1-mRNA,-0.742,0.265,-1.26,-0.222,0.598,0.417,0.857,0.0111,0.213,lm.nb,"Cannabinoid Signaling, Dopaminergic Synapse, Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_000827.3:2840
+XK-mRNA,-0.729,0.261,-1.24,-0.218,0.603,0.423,0.86,0.0112,0.214,lm.nb,Neurogenesis,NM_021083.2:545
+ATP6V1E1-mRNA,-0.639,0.229,-1.09,-0.19,0.642,0.47,0.877,0.0113,0.215,lm.nb,"Ion Transport, Phagocytosis",NM_001696.4:580
+INA-mRNA,-1.04,0.373,-1.77,-0.306,0.487,0.293,0.809,0.0115,0.218,lm.nb,Cytoskeletal Dynamics,NM_032727.4:1270
+MAP2K1-mRNA,-0.66,0.237,-1.13,-0.194,0.633,0.458,0.874,0.0116,0.219,lm.nb,MAPK & PI3K,NM_002755.3:1174
+DCLK1-mRNA,-0.943,0.341,-1.61,-0.275,0.52,0.327,0.827,0.0119,0.224,lm.nb,Neurogenesis,NM_004734.4:1571
+CUX2-mRNA,-1.06,0.385,-1.82,-0.31,0.478,0.283,0.807,0.012,0.224,lm.nb,"Neurogenesis, Neuronal Markers",NM_015267.3:303
+PDPK1-mRNA,-0.446,0.162,-0.764,-0.128,0.734,0.589,0.915,0.0123,0.23,lm.nb,"Cell Migration, Insulin Signaling, Neurotrophin Signaling, T-cell signaling",XM_011522521.2:4552
+PGK1-mRNA,-0.521,0.19,-0.893,-0.148,0.697,0.539,0.902,0.0126,0.233,lm.nb,Glucose Metabolism,NM_000291.2:1030
+SEC23A-mRNA,-0.505,0.184,-0.866,-0.144,0.705,0.549,0.905,0.0126,0.233,lm.nb,"Antigen Processing and Presentation, Proteotoxic Stress",NM_006364.2:1204
+OPA1-mRNA,-0.6,0.219,-1.03,-0.17,0.66,0.49,0.889,0.0127,0.233,lm.nb,"Apoptosis, Neurogenesis",NM_130837.1:1355
+RAPGEF2-mRNA,-0.481,0.176,-0.825,-0.136,0.717,0.564,0.91,0.0127,0.233,lm.nb,MAPK & PI3K,NM_014247.2:3445
+C1R-mRNA,1.21,0.442,0.341,2.07,2.31,1.27,4.21,0.0128,0.234,lm.nb,Complement System,NM_001733.4:760
+SAMM50-mRNA,-0.303,0.111,-0.52,-0.085,0.811,0.697,0.943,0.013,0.237,lm.nb,Glucose Metabolism,NM_015380.4:890
+POR-mRNA,-0.473,0.174,-0.814,-0.132,0.721,0.569,0.913,0.0133,0.241,lm.nb,NO Metabolism and Signaling,NM_000941.2:114
+DNAJA2-mRNA,-0.674,0.249,-1.16,-0.187,0.627,0.447,0.879,0.0135,0.244,lm.nb,Proteotoxic Stress,NM_005880.3:370
+TYROBP-mRNA,1.11,0.412,0.305,1.92,2.16,1.24,3.79,0.0138,0.248,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Stage 1 DAM",NM_003332.3:361
+CNP-mRNA,0.689,0.256,0.187,1.19,1.61,1.14,2.28,0.014,0.25,lm.nb,"Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_033133.5:826
+CD14-mRNA,1.12,0.416,0.305,1.94,2.18,1.24,3.83,0.014,0.25,lm.nb,"A2 Astrocyte, NF-kappaB Signaling",NM_000591.2:885
+DNM1-mRNA,-0.887,0.33,-1.53,-0.24,0.541,0.345,0.847,0.0142,0.252,lm.nb,"Antigen Processing and Presentation, Cytoskeletal Dynamics, Gap Junctions",NM_004408.2:817
+KCNV1-mRNA,-1.6,0.596,-2.77,-0.43,0.33,0.147,0.742,0.0143,0.255,lm.nb,Ion Transport,NM_014379.2:1622
+MS4A4A-mRNA,1.19,0.446,0.316,2.06,2.28,1.25,4.18,0.0147,0.26,lm.nb,,NM_001243266.1:296
+PIAS1-mRNA,0.253,0.0946,0.0671,0.438,1.19,1.05,1.35,0.0147,0.26,lm.nb,"Interferon Signaling, JAK-STAT",NM_016166.1:1870
+ANK2-mRNA,-0.401,0.151,-0.696,-0.106,0.757,0.617,0.929,0.0149,0.262,lm.nb,"Cytoskeletal Dynamics, Myelogenesis",NM_001148.5:11581
+FCGR3A/B-mRNA,0.972,0.365,0.256,1.69,1.96,1.19,3.22,0.015,0.262,lm.nb,Phagocytosis,NM_000570.4:696
+CHRM3-mRNA,-1.11,0.417,-1.93,-0.292,0.464,0.263,0.817,0.015,0.262,lm.nb,"Calcium Signaling, Cholinergic Synapse, Neuroactive Ligands and Receptors",NM_000740.2:1345
+EPB41L2-mRNA,0.247,0.0932,0.0647,0.43,1.19,1.05,1.35,0.0153,0.265,lm.nb,Cytoskeletal Dynamics,NM_001199389.1:1880
+GPR34-mRNA,1.26,0.475,0.325,2.19,2.39,1.25,4.56,0.0156,0.269,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Primed Microglia",NM_005300.2:170
+FA2H-mRNA,0.974,0.369,0.251,1.7,1.96,1.19,3.24,0.0157,0.27,lm.nb,"Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_024306.2:360
+DUSP3-mRNA,-0.312,0.118,-0.544,-0.0803,0.805,0.686,0.946,0.0158,0.271,lm.nb,"MAPK & PI3K, Neurotrophin Signaling",NM_004090.3:159
+CXCL8-mRNA,-2.03,0.773,-3.55,-0.519,0.244,0.0855,0.698,0.016,0.274,lm.nb,"Chemokines, NF-kappaB Signaling",NM_000584.3:221
+THRB-mRNA,-0.526,0.2,-0.918,-0.134,0.695,0.529,0.911,0.0161,0.274,lm.nb,Neuroactive Ligands and Receptors,NM_000461.4:385
+PRKAR1A-mRNA,-0.407,0.155,-0.711,-0.103,0.754,0.611,0.931,0.0161,0.274,lm.nb,Insulin Signaling,NM_212472.1:367
+SKP1-mRNA,-0.29,0.111,-0.507,-0.0734,0.818,0.703,0.95,0.0163,0.276,lm.nb,"Cell Cycle, Circadian Signaling, Proteotoxic Stress, Wnt Signaling",NM_006930.3:318
+GRIN2A-mRNA,-0.677,0.26,-1.19,-0.166,0.626,0.439,0.891,0.0172,0.29,lm.nb,"Calcium Signaling, Dopaminergic Synapse, Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_000833.3:4497
+ALDH1L1-mRNA,0.791,0.305,0.192,1.39,1.73,1.14,2.62,0.0175,0.295,lm.nb,Astrocyte Markers,NM_012190.2:329
+SLC38A2-mRNA,0.612,0.237,0.147,1.08,1.53,1.11,2.11,0.0178,0.298,lm.nb,"GABAergic Synapse, Glutamatergic Synapse, Oligodendrocyte Markers",NM_018976.4:1170
+BHLHE40-mRNA,-0.428,0.166,-0.753,-0.103,0.743,0.593,0.931,0.0178,0.298,lm.nb,"Circadian Signaling, Microglia Neurodegenerative Phenotype (MGnD)",NM_003670.2:716
+ORC4-mRNA,-0.578,0.225,-1.02,-0.137,0.67,0.494,0.909,0.0182,0.303,lm.nb,Cell Cycle,NM_181742.1:871
+SYN1-mRNA,-0.765,0.3,-1.35,-0.178,0.588,0.392,0.884,0.0189,0.313,lm.nb,"Cytoskeletal Dynamics, Dopaminergic Synapse, Neurogenesis, Neuronal Markers, Serotonergic Synapse",NM_006950.3:565
+ZNF365-mRNA,-0.689,0.271,-1.22,-0.158,0.62,0.429,0.896,0.0193,0.318,lm.nb,"Neurogenesis, Oligodendrocyte DifferentiationMaturation",NM_014951.2:493
+AMPH-mRNA,-0.877,0.345,-1.55,-0.201,0.545,0.341,0.87,0.0193,0.318,lm.nb,Phagocytosis,NM_001635.3:526
+MBTPS1-mRNA,-0.341,0.134,-0.603,-0.0779,0.79,0.658,0.947,0.0194,0.319,lm.nb,Proteotoxic Stress,NM_003791.2:1434
+DLD-mRNA,-0.464,0.183,-0.823,-0.106,0.725,0.565,0.929,0.0195,0.319,lm.nb,Glucose Metabolism,NM_000108.3:766
+B2M-mRNA,0.791,0.312,0.18,1.4,1.73,1.13,2.64,0.0196,0.319,lm.nb,"Antigen Processing and Presentation, Primed Microglia, Stage 1 DAM",NM_004048.2:235
+DNAJC11-mRNA,-0.271,0.107,-0.481,-0.0615,0.829,0.716,0.958,0.0197,0.321,lm.nb,Glucose Metabolism,NM_018198.3:474
+DYNC1LI1-mRNA,-0.581,0.23,-1.03,-0.131,0.668,0.489,0.913,0.0199,0.323,lm.nb,Antigen Processing and Presentation,NM_016141.3:1338
+NMNAT2-mRNA,-0.816,0.323,-1.45,-0.183,0.568,0.367,0.881,0.02,0.323,lm.nb,Cytoskeletal Dynamics,NM_170706.3:605
+SYBU-mRNA,-0.508,0.203,-0.906,-0.11,0.703,0.534,0.926,0.0211,0.339,lm.nb,Cytoskeletal Dynamics,NM_001099744.1:1492
+AKT1-mRNA,0.474,0.19,0.101,0.848,1.39,1.07,1.8,0.0216,0.347,lm.nb,MAPK & PI3K,NM_001014432.1:1275
+HLA-A-mRNA,0.813,0.327,0.173,1.45,1.76,1.13,2.74,0.0217,0.348,lm.nb,"A1 Astrocyte, Antigen Processing and Presentation",NM_002116.5:1000
+UCHL1-mRNA,-0.884,0.358,-1.58,-0.183,0.542,0.333,0.881,0.0225,0.359,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_004181.4:579
+FGF13-mRNA,-0.629,0.255,-1.13,-0.13,0.647,0.458,0.914,0.0227,0.359,lm.nb,"Cytoskeletal Dynamics, Neurogenesis",NM_001139498.1:410
+SCD5-mRNA,0.564,0.228,0.116,1.01,1.48,1.08,2.02,0.0227,0.359,lm.nb,Lipid Metabolism,NM_024906.2:512
+SLC25A12-mRNA,-0.692,0.28,-1.24,-0.142,0.619,0.423,0.906,0.0227,0.359,lm.nb,Myelogenesis,NM_003705.5:435
+SRGN-mRNA,0.645,0.262,0.131,1.16,1.56,1.09,2.23,0.0232,0.365,lm.nb,A1 Astrocyte,NM_002727.3:462
+MYRF-mRNA,0.982,0.401,0.197,1.77,1.98,1.15,3.4,0.0235,0.369,lm.nb,"Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_013279.4:1130
+ATP2B2-mRNA,-0.536,0.219,-0.965,-0.107,0.69,0.512,0.928,0.0236,0.369,lm.nb,"Calcium Signaling, Ion Transport",NM_001001331.2:426
+KCND2-mRNA,-0.486,0.199,-0.876,-0.0964,0.714,0.545,0.935,0.0239,0.372,lm.nb,"Ion Transport, Serotonergic Synapse",NM_012281.3:1645
+PRKAG1-mRNA,-0.558,0.229,-1.01,-0.109,0.679,0.497,0.927,0.0242,0.376,lm.nb,Glucose Metabolism,NM_002733.3:825
+LAMP1-mRNA,0.429,0.176,0.0831,0.775,1.35,1.06,1.71,0.0246,0.38,lm.nb,Autophagy,NM_005561.3:730
+HSPA9-mRNA,-0.275,0.114,-0.498,-0.0525,0.826,0.708,0.964,0.0251,0.387,lm.nb,Primed Microglia,NM_004134.4:975
+DNAJB9-mRNA,-0.556,0.23,-1.01,-0.105,0.68,0.498,0.93,0.0252,0.388,lm.nb,Proteotoxic Stress,NM_012328.1:380
+TGFBR1-mRNA,0.556,0.23,0.105,1.01,1.47,1.08,2.01,0.0254,0.389,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Primed Microglia, TGF-Beta Signaling",NM_004612.2:1255
+TPI1-mRNA,-0.435,0.18,-0.788,-0.0817,0.74,0.579,0.945,0.0255,0.39,lm.nb,"Glucose Metabolism, Primed Microglia",NM_000365.5:153
+GRIK2-mRNA,-0.754,0.313,-1.37,-0.141,0.593,0.387,0.907,0.0257,0.39,lm.nb,"Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_021956.4:1329
+STAT1-mRNA,-0.51,0.212,-0.925,-0.0949,0.702,0.527,0.936,0.0258,0.39,lm.nb,"JAK-STAT, Primed Microglia",NM_139266.1:455
+STMN1-mRNA,-0.567,0.236,-1.03,-0.105,0.675,0.49,0.93,0.0258,0.39,lm.nb,"MAPK & PI3K, Neurogenesis, Neuronal Markers",NM_203401.1:478
+LAMTOR3-mRNA,-0.276,0.115,-0.501,-0.0513,0.826,0.707,0.965,0.0259,0.39,lm.nb,Autophagy,NM_001243736.1:486
+NRXN1-mRNA,-0.828,0.349,-1.51,-0.145,0.563,0.351,0.905,0.0277,0.416,lm.nb,"Cell Migration, Neurogenesis",NM_001320156.1:364
+TLN2-mRNA,-0.603,0.255,-1.1,-0.103,0.659,0.466,0.931,0.0284,0.425,lm.nb,Cell Migration,NM_015059.2:640
+GABRA5-mRNA,-0.821,0.349,-1.5,-0.138,0.566,0.353,0.909,0.0288,0.431,lm.nb,"Cannabinoid Signaling, GABAergic Synapse, Neuroactive Ligands and Receptors",NM_000810.3:1054
+ERMN-mRNA,0.764,0.325,0.127,1.4,1.7,1.09,2.64,0.0291,0.434,lm.nb,"Cytoskeletal Dynamics, Oligodendrocyte Markers",NM_001304344.1:440
+MAPK14-mRNA,-0.322,0.137,-0.591,-0.0528,0.8,0.664,0.964,0.0295,0.438,lm.nb,MAPK & PI3K,NM_001315.2:792
+CALM2-mRNA,-0.471,0.201,-0.865,-0.0768,0.722,0.549,0.948,0.0296,0.438,lm.nb,Calcium Signaling,NM_001743.4:416
+ADAR-mRNA,-0.18,0.0769,-0.331,-0.0293,0.883,0.795,0.98,0.0297,0.438,lm.nb,Interferon Signaling,NM_001025107.1:3530
+CTSB-mRNA,-0.351,0.151,-0.646,-0.0555,0.784,0.639,0.962,0.0305,0.449,lm.nb,"Apoptosis, Autophagy, Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia, Stage 1 DAM",NM_147780.2:1054
+SLC17A7-mRNA,-0.661,0.284,-1.22,-0.103,0.633,0.43,0.931,0.0308,0.452,lm.nb,"Cannabinoid Signaling, Glutamatergic Synapse, Neuronal Markers",NM_020309.2:1330
+ATP1A1-mRNA,-0.742,0.32,-1.37,-0.115,0.598,0.387,0.923,0.031,0.453,lm.nb,"Ion Transport, Primed Microglia",NM_000701.7:1550
+EIF2AK1-mRNA,-0.286,0.123,-0.528,-0.0444,0.82,0.694,0.97,0.0311,0.453,lm.nb,Proteotoxic Stress,NM_014413.2:1685
+CACNA1B-mRNA,-0.48,0.207,-0.887,-0.0735,0.717,0.541,0.95,0.0314,0.456,lm.nb,"Calcium Signaling, Dopaminergic Synapse, GABAergic Synapse, Ion Transport, MAPK & PI3K, Serotonergic Synapse",NM_000718.3:3664
+CHRNB2-mRNA,-0.797,0.345,-1.47,-0.122,0.576,0.36,0.919,0.0315,0.456,lm.nb,"Cholinergic Synapse, Neuroactive Ligands and Receptors",NM_000748.3:510
+SYT1-mRNA,-0.875,0.378,-1.62,-0.133,0.545,0.326,0.912,0.0315,0.456,lm.nb,"Cholinergic Synapse, Dopaminergic Synapse, GABAergic Synapse, Glutamatergic Synapse, Neurogenesis, Neuronal Markers, Serotonergic Synapse",NM_005639.2:1736
+SCN1A-mRNA,-1.13,0.494,-2.09,-0.158,0.458,0.234,0.896,0.0338,0.487,lm.nb,"Dopaminergic Synapse, Ion Transport",NM_006920.4:995
+UBQLN1-mRNA,-0.323,0.142,-0.602,-0.0446,0.799,0.659,0.97,0.0341,0.49,lm.nb,Proteotoxic Stress,NM_053067.2:990
+SUMO1-mRNA,-0.402,0.177,-0.75,-0.0552,0.757,0.595,0.962,0.0343,0.491,lm.nb,Interferon Signaling,NM_003352.8:348
+CASP3-mRNA,0.221,0.0972,0.0302,0.411,1.17,1.02,1.33,0.0344,0.491,lm.nb,Apoptosis,NM_004346.3:875
+HADH-mRNA,0.242,0.107,0.0328,0.451,1.18,1.02,1.37,0.0346,0.493,lm.nb,Lipid Metabolism,NM_001184705.2:645
+FCGR1A/B-mRNA,0.857,0.378,0.116,1.6,1.81,1.08,3.03,0.0347,0.493,lm.nb,"Antigen Processing and Presentation, Cytokines, Interferon Signaling, Phagocytosis",NM_000566.3:842
+S100B-mRNA,0.753,0.333,0.101,1.4,1.69,1.07,2.65,0.0349,0.494,lm.nb,"Astrocyte Markers, Myelogenesis, Neurogenesis",NM_006272.2:304
+WDR35-mRNA,0.297,0.132,0.0382,0.556,1.23,1.03,1.47,0.0359,0.507,lm.nb,NO Metabolism and Signaling,NM_001006657.1:1400
+CNTNAP2-mRNA,-0.878,0.39,-1.64,-0.113,0.544,0.32,0.925,0.036,0.507,lm.nb,"Cell Migration, Cytoskeletal Dynamics, Myelogenesis",NM_014141.4:940
+C1QBP-mRNA,-0.377,0.168,-0.706,-0.0478,0.77,0.613,0.967,0.0363,0.509,lm.nb,"A1 Astrocyte, Apoptosis",NM_001212.3:745
+PPT1-mRNA,-0.206,0.0917,-0.386,-0.026,0.867,0.765,0.982,0.0363,0.509,lm.nb,Lipid Metabolism,NM_000310.3:826
+B4GALT6-mRNA,-0.682,0.306,-1.28,-0.0817,0.623,0.411,0.945,0.0376,0.525,lm.nb,"Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_004775.3:930
+ACOT13-mRNA,0.2,0.0898,0.0238,0.376,1.15,1.02,1.3,0.0378,0.526,lm.nb,Lipid Metabolism,NM_018473.2:400
+HLA-E-mRNA,0.715,0.322,0.0835,1.35,1.64,1.06,2.54,0.0382,0.53,lm.nb,"A1 Astrocyte, Antigen Processing and Presentation",NM_005516.5:330
+ADCY1-mRNA,-0.603,0.273,-1.14,-0.0668,0.659,0.454,0.955,0.0394,0.545,lm.nb,Calcium Signaling,NM_001281768.1:1006
+CYP2U1-mRNA,0.288,0.132,0.029,0.547,1.22,1.02,1.46,0.0414,0.572,lm.nb,Lipid Metabolism,NM_183075.3:602
+MAG-mRNA,0.961,0.443,0.0936,1.83,1.95,1.07,3.55,0.0421,0.579,lm.nb,"Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_001199216.1:1780
+NES-mRNA,0.732,0.338,0.0694,1.39,1.66,1.05,2.63,0.0426,0.585,lm.nb,Cytoskeletal Dynamics,NM_006617.1:2345
+GABRA1-mRNA,-0.664,0.308,-1.27,-0.0591,0.631,0.415,0.96,0.0438,0.6,lm.nb,"Cannabinoid Signaling, GABAergic Synapse, Neuroactive Ligands and Receptors",NM_000806.5:475
+FOS-mRNA,-1.16,0.542,-2.23,-0.102,0.446,0.213,0.932,0.0442,0.603,lm.nb,"MAPK & PI3K, T-cell signaling",NM_005252.3:554
+UNC80-mRNA,-0.551,0.256,-1.05,-0.0478,0.683,0.482,0.967,0.0443,0.603,lm.nb,Ion Transport,NM_032504.1:3056
+HCN1-mRNA,-1.11,0.519,-2.13,-0.0947,0.462,0.228,0.936,0.0446,0.606,lm.nb,Ion Transport,NM_021072.2:1450
+YWHAG-mRNA,-0.538,0.252,-1.03,-0.0444,0.689,0.489,0.97,0.0452,0.611,lm.nb,"Cell Cycle, Neurogenesis",NM_012479.4:389
+PSMD10-mRNA,-0.285,0.135,-0.549,-0.0218,0.82,0.683,0.985,0.0465,0.627,lm.nb,Antigen Processing and Presentation,NM_002814.2:275
+AIF1-mRNA,0.671,0.317,0.0501,1.29,1.59,1.04,2.45,0.0469,0.631,lm.nb,"Microglial Markers, NO Metabolism and Signaling",NM_032955.1:185
+ATP6V1G1-mRNA,-0.314,0.148,-0.604,-0.0232,0.804,0.658,0.984,0.047,0.631,lm.nb,"Ion Transport, Phagocytosis",NM_004888.4:300
+IFNAR1-mRNA,-0.283,0.134,-0.546,-0.02,0.822,0.685,0.986,0.0477,0.639,lm.nb,Interferon Signaling,NM_000629.2:782
+UBE4B-mRNA,0.164,0.0788,0.00997,0.319,1.12,1.01,1.25,0.0499,0.666,lm.nb,"Neurogenesis, Proteotoxic Stress",NM_006048.3:1560
+GPHN-mRNA,-0.248,0.12,-0.483,-0.012,0.842,0.715,0.992,0.0527,0.701,lm.nb,GABAergic Synapse,NM_020806.4:1145
+ANKH-mRNA,-0.282,0.138,-0.552,-0.0112,0.823,0.682,0.992,0.0547,0.724,lm.nb,Primed Microglia,NM_054027.4:610
+STAT3-mRNA,0.551,0.27,0.0217,1.08,1.46,1.02,2.11,0.0547,0.724,lm.nb,"JAK-STAT, Neurogenesis",NM_003150.3:2060
+AXL-mRNA,0.489,0.242,0.0159,0.963,1.4,1.01,1.95,0.0563,0.744,lm.nb,"Angiogenesis, Astrocyte Markers, Microglia Neurodegenerative Phenotype (MGnD), Neurogenesis, Primed Microglia, Stage 2 DAM",NM_021913.2:2190
+LPAR6-mRNA,0.571,0.282,0.018,1.12,1.49,1.01,2.18,0.0566,0.744,lm.nb,"Neuroactive Ligands and Receptors, Purinergic Signaling",NM_005767.3:1210
+ENTPD2-mRNA,2.4,1.18,0.0737,4.72,5.26,1.05,26.3,0.0575,0.754,Wald,Purinergic Signaling,NM_203468.1:206
+SQSTM1-mRNA,0.293,0.146,0.00773,0.578,1.23,1.01,1.49,0.0578,0.756,lm.nb,Autophagy,NM_001142298.1:489
+ETV5-mRNA,-0.525,0.262,-1.04,-0.0116,0.695,0.487,0.992,0.0588,0.767,lm.nb,Neurogenesis,NM_004454.2:1685
+SLC17A6-mRNA,-0.884,0.445,-1.76,-0.011,0.542,0.296,0.992,0.0611,0.795,lm.nb,"Cannabinoid Signaling, Glutamatergic Synapse",NM_020346.2:1555
+SLC12A5-mRNA,-0.529,0.268,-1.06,-0.00356,0.693,0.481,0.998,0.0624,0.811,lm.nb,"GABAergic Synapse, Neurogenesis",NM_001134771.1:2825
+RANBP9-mRNA,-0.358,0.184,-0.72,0.00288,0.78,0.607,1,0.0661,0.856,lm.nb,Neurogenesis,NM_005493.2:2000
+PTPN1-mRNA,-0.307,0.158,-0.618,0.00321,0.808,0.652,1,0.0666,0.857,lm.nb,"Insulin Signaling, Interferon Signaling",NM_002827.3:664
+UBQLN2-mRNA,-0.245,0.126,-0.493,0.00272,0.844,0.711,1,0.0668,0.857,lm.nb,Proteotoxic Stress,NM_013444.3:1080
+MYO5A-mRNA,-0.644,0.332,-1.3,0.00718,0.64,0.407,1,0.0668,0.857,lm.nb,"Cytoskeletal Dynamics, Myelogenesis",NM_000259.1:5090
+ATP5F1B-mRNA,-0.488,0.252,-0.981,0.00548,0.713,0.506,1,0.0668,0.857,lm.nb,Glucose Metabolism,NM_001686.3:645
+PDGFRA-mRNA,0.361,0.187,-0.00444,0.727,1.28,0.997,1.65,0.0671,0.858,lm.nb,MAPK & PI3K,NM_006206.3:1925
+KCNQ5-mRNA,-0.431,0.224,-0.871,0.00823,0.742,0.547,1.01,0.0688,0.877,lm.nb,"Cholinergic Synapse, Ion Transport",NM_001160132.1:1385
+ESAM-mRNA,0.5,0.261,-0.0107,1.01,1.41,0.993,2.02,0.0694,0.882,lm.nb,"Blood Brain Barrier, Cell Migration",NM_138961.2:715
+TRIM26-mRNA,0.336,0.175,-0.00774,0.679,1.26,0.995,1.6,0.0698,0.885,lm.nb,"Interferon Signaling, Primed Microglia",NM_001242783.1:860
+ACADSB-mRNA,-0.49,0.257,-0.994,0.0134,0.712,0.502,1.01,0.0709,0.896,lm.nb,Lipid Metabolism,NM_001609.3:770
+PPP3CB-mRNA,-0.456,0.241,-0.928,0.0151,0.729,0.526,1.01,0.0723,0.912,lm.nb,"Calcium Signaling, MAPK & PI3K",NM_021132.2:270
+ROCK2-mRNA,-0.285,0.15,-0.579,0.00959,0.821,0.669,1.01,0.0725,0.912,lm.nb,"Cell Migration, Wnt Signaling",NM_004850.3:3140
+YWHAQ-mRNA,-0.15,0.0792,-0.305,0.0055,0.901,0.81,1,0.0733,0.92,lm.nb,Cell Cycle,NM_006826.3:558
+BAX-mRNA,0.253,0.134,-0.0101,0.516,1.19,0.993,1.43,0.0741,0.928,lm.nb,"Apoptosis, Proteotoxic Stress",NM_138761.3:342
+CHI3L1-mRNA,-1.47,0.781,-3,0.0633,0.362,0.125,1.04,0.0749,0.935,lm.nb,Astrocyte Markers,NM_001276.2:475
+SPP1-mRNA,0.728,0.392,-0.0403,1.5,1.66,0.972,2.82,0.078,0.972,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Neurogenesis, Primed Microglia",NM_000582.2:760
+PRKAB2-mRNA,-0.382,0.206,-0.786,0.0229,0.767,0.58,1.02,0.0793,0.985,lm.nb,"Glucose Metabolism, Lipid Metabolism",NM_005399.5:712
+ITPR1-mRNA,-0.563,0.309,-1.17,0.0415,0.677,0.445,1.03,0.0829,1,lm.nb,"Apoptosis, Calcium Signaling",NM_001099952.2:4818
+IMMT-mRNA,-0.482,0.265,-1,0.0367,0.716,0.5,1.03,0.0836,1,lm.nb,Glucose Metabolism,NM_006839.2:2258
+MOG-mRNA,0.74,0.407,-0.0575,1.54,1.67,0.961,2.9,0.084,1,lm.nb,Oligodendrocyte Markers,NM_001008228.2:662
+PRKCE-mRNA,-0.404,0.222,-0.84,0.0317,0.756,0.559,1.02,0.0842,1,lm.nb,Phagocytosis,NM_005400.2:1138
+ATP6V1G2-mRNA,-0.465,0.257,-0.968,0.0381,0.724,0.511,1.03,0.0851,1,lm.nb,"Ion Transport, Phagocytosis",NM_130463.4:277
+RASGRP1-mRNA,-0.91,0.502,-1.89,0.0749,0.532,0.269,1.05,0.0852,1,lm.nb,"MAPK & PI3K, T-cell signaling",NM_005739.3:365
+GNAS-mRNA,-0.342,0.189,-0.712,0.0286,0.789,0.61,1.02,0.0856,1,lm.nb,"Calcium Signaling, Dopaminergic Synapse, Glutamatergic Synapse, Microglia Neurodegenerative Phenotype (MGnD), Serotonergic Synapse",NM_080425.1:1910
+MYORG-mRNA,0.388,0.215,-0.0328,0.809,1.31,0.978,1.75,0.0858,1,lm.nb,,NM_020702.5:1180
+HMOX1-mRNA,0.786,0.44,-0.076,1.65,1.72,0.949,3.13,0.0891,1,lm.nb,Hypoxia,NM_002133.2:781
+ACADM-mRNA,0.181,0.103,-0.0201,0.382,1.13,0.986,1.3,0.093,1,lm.nb,Lipid Metabolism,NM_000016.5:1289
+CNR1-mRNA,-0.333,0.189,-0.704,0.0374,0.794,0.614,1.03,0.0933,1,lm.nb,"Cannabinoid Signaling, Neuroactive Ligands and Receptors",NM_001160226.1:1576
+CTSF-mRNA,0.164,0.0931,-0.0185,0.346,1.12,0.987,1.27,0.0936,1,lm.nb,"Apoptosis, Microglial Markers",NM_003793.3:655
+CD44-mRNA,1.35,0.768,-0.158,2.85,2.54,0.896,7.22,0.0947,1,lm.nb,"Astrocyte Markers, Interferon Signaling, Primed Microglia",NM_001001392.1:429
+EID1-mRNA,-0.272,0.157,-0.58,0.0368,0.828,0.669,1.03,0.0997,1,lm.nb,Primed Microglia,NM_014335.3:413
+PPM1L-mRNA,-0.395,0.229,-0.843,0.0535,0.761,0.558,1.04,0.0998,1,lm.nb,Primed Microglia,NM_139245.2:984
+TICAM1-mRNA,0.387,0.225,-0.0537,0.827,1.31,0.963,1.77,0.101,1,lm.nb,"Apoptosis, NF-kappaB Signaling, NO Metabolism and Signaling",NM_014261.1:518
+BUB3-mRNA,-0.25,0.146,-0.536,0.0359,0.841,0.69,1.03,0.102,1,lm.nb,Cell Cycle,NM_004725.3:775
+DNM1L-mRNA,-0.309,0.181,-0.665,0.0457,0.807,0.631,1.03,0.103,1,lm.nb,"Apoptosis, Neurogenesis",NM_001278463.1:1396
+MAP2-mRNA,-0.353,0.209,-0.762,0.057,0.783,0.59,1.04,0.107,1,lm.nb,"Cytoskeletal Dynamics, Neurogenesis, Neuronal Markers",NM_001039538.1:1156
+APOE-mRNA,0.511,0.306,-0.0899,1.11,1.42,0.94,2.16,0.111,1,lm.nb,"Astrocyte Markers, Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia, Stage 1 DAM",NM_000041.2:96
+SLC1A3-mRNA,0.408,0.245,-0.0726,0.889,1.33,0.951,1.85,0.112,1,lm.nb,Glutamatergic Synapse,NM_004172.4:558
+HTR5A-mRNA,-0.403,0.242,-0.877,0.0721,0.756,0.544,1.05,0.112,1,lm.nb,"Calcium Signaling, Neuroactive Ligands and Receptors, Serotonergic Synapse",NM_024012.2:776
+CA2-mRNA,0.591,0.362,-0.119,1.3,1.51,0.921,2.46,0.119,1,lm.nb,"Cytoskeletal Dynamics, Oligodendrocyte Markers",NM_000067.2:575
+GAD2-mRNA,0.392,0.241,-0.0796,0.865,1.31,0.946,1.82,0.119,1,lm.nb,GABAergic Synapse,NM_000818.2:1245
+ATP2B3-mRNA,-0.675,0.415,-1.49,0.139,0.626,0.356,1.1,0.12,1,lm.nb,"Calcium Signaling, Ion Transport",NM_001001344.2:1280
+PIK3CB-mRNA,-0.313,0.194,-0.694,0.067,0.805,0.618,1.05,0.122,1,lm.nb,MAPK & PI3K,NM_006219.1:2945
+CYP4X1-mRNA,-0.387,0.24,-0.858,0.0846,0.765,0.552,1.06,0.123,1,lm.nb,Serotonergic Synapse,NM_178033.1:810
+CLTA-mRNA,-0.189,0.118,-0.42,0.042,0.877,0.748,1.03,0.124,1,lm.nb,"Gap Junctions, Wnt Signaling",NM_001184762.1:421
+SIRPA-mRNA,-0.235,0.147,-0.524,0.0542,0.85,0.696,1.04,0.127,1,lm.nb,NO Metabolism and Signaling,NM_001040022.1:1573
+PARP2-mRNA,-0.315,0.198,-0.703,0.0729,0.804,0.614,1.05,0.127,1,lm.nb,Apoptosis,NM_005484.3:1154
+CD34-mRNA,0.496,0.314,-0.12,1.11,1.41,0.92,2.16,0.13,1,lm.nb,Cell Migration,NM_001025109.1:650
+SLC8A1-mRNA,-0.452,0.287,-1.01,0.111,0.731,0.495,1.08,0.131,1,lm.nb,Calcium Signaling,NM_021097.1:440
+PIK3R1-mRNA,-0.221,0.14,-0.496,0.0547,0.858,0.709,1.04,0.132,1,lm.nb,MAPK & PI3K,NM_181504.2:1105
+PLLP-mRNA,0.461,0.296,-0.12,1.04,1.38,0.92,2.06,0.135,1,lm.nb,Myelogenesis,NM_015993.2:395
+MEF2A-mRNA,-0.179,0.115,-0.406,0.0469,0.883,0.755,1.03,0.136,1,lm.nb,"Cytokines, Microglia Neurodegenerative Phenotype (MGnD), Neurogenesis, Neurotrophin Signaling",NM_005587.2:840
+APLP2-mRNA,-0.164,0.106,-0.372,0.0437,0.893,0.773,1.03,0.137,1,lm.nb,Primed Microglia,NM_001642.2:1380
+NOS1AP-mRNA,-0.386,0.252,-0.88,0.108,0.765,0.543,1.08,0.141,1,lm.nb,"NO Metabolism and Signaling, Oxidative & Nitrosative Stress",NM_014697.3:1706
+NCAM1-mRNA,0.174,0.114,-0.0498,0.399,1.13,0.966,1.32,0.143,1,lm.nb,"Cell Migration, Neurogenesis, Neuronal Markers",NM_000615.5:1620
+IFNGR2-mRNA,-0.176,0.116,-0.404,0.0521,0.885,0.756,1.04,0.146,1,lm.nb,Interferon Signaling,NM_005534.3:799
+LTA4H-mRNA,-0.219,0.145,-0.504,0.0651,0.859,0.705,1.05,0.146,1,lm.nb,Lipid Metabolism,NM_001256643.1:1140
+FGF2-mRNA,0.517,0.344,-0.157,1.19,1.43,0.897,2.28,0.148,1,lm.nb,"Cytokines, MAPK & PI3K",NM_002006.4:620
+QDPR-mRNA,0.391,0.26,-0.119,0.901,1.31,0.921,1.87,0.148,1,lm.nb,Oligodendrocyte Markers,NM_001306140.1:305
+PGAM1-mRNA,-0.142,0.0944,-0.327,0.0431,0.906,0.797,1.03,0.148,1,lm.nb,Glucose Metabolism,NM_002629.3:439
+ADAMTS1-mRNA,-0.519,0.348,-1.2,0.164,0.698,0.435,1.12,0.152,1,lm.nb,Microglial Markers,NM_006988.3:2840
+ORC3-mRNA,-0.279,0.189,-0.65,0.0919,0.824,0.637,1.07,0.156,1,lm.nb,Cell Cycle,NM_181837.1:585
+CAMK2G-mRNA,0.248,0.169,-0.0827,0.579,1.19,0.944,1.49,0.157,1,lm.nb,Calcium Signaling,NM_001222.2:233
+PSMD6-mRNA,-0.149,0.103,-0.35,0.0523,0.902,0.785,1.04,0.162,1,lm.nb,Antigen Processing and Presentation,NM_001271779.1:1045
+CALM3-mRNA,-0.393,0.273,-0.929,0.143,0.762,0.525,1.1,0.166,1,lm.nb,Calcium Signaling,NM_005184.4:405
+HECTD1-mRNA,-0.152,0.106,-0.359,0.0554,0.9,0.78,1.04,0.167,1,lm.nb,Antigen Processing and Presentation,NM_015382.2:810
+TRIM37-mRNA,-0.374,0.265,-0.894,0.145,0.771,0.538,1.11,0.173,1,lm.nb,Antigen Processing and Presentation,NM_015294.4:1910
+TRIM2-mRNA,-0.2,0.143,-0.479,0.0804,0.871,0.717,1.06,0.178,1,lm.nb,"Interferon Signaling, Primed Microglia",NM_001302694.1:298
+PRKCD-mRNA,-0.34,0.244,-0.819,0.138,0.79,0.567,1.1,0.179,1,lm.nb,"Neurotrophin Signaling, Phagocytosis",NM_006254.3:2165
+PROS1-mRNA,0.405,0.292,-0.168,0.977,1.32,0.89,1.97,0.181,1,lm.nb,Complement System,NM_000313.1:875
+ADH5-mRNA,0.139,0.101,-0.0593,0.338,1.1,0.96,1.26,0.184,1,lm.nb,Lipid Metabolism,NM_000671.3:832
+CFI-mRNA,1.73,1.27,-0.757,4.22,3.32,0.592,18.6,0.189,1,Wald,Complement System,NM_000204.3:764
+SLC11A1-mRNA,1.08,0.806,-0.498,2.66,2.12,0.708,6.33,0.195,1,Wald,"Microglial Markers, Phagocytosis",NM_000578.3:1679
+DOCK3-mRNA,-0.361,0.272,-0.894,0.172,0.779,0.538,1.13,0.199,1,lm.nb,Neurotrophin Signaling,NM_004947.4:3020
+MTMR4-mRNA,-0.177,0.134,-0.44,0.0851,0.884,0.737,1.06,0.2,1,lm.nb,Autophagy,NM_004687.4:1098
+MMUT-mRNA,-0.318,0.242,-0.793,0.157,0.802,0.577,1.12,0.205,1,lm.nb,Lipid Metabolism,NM_000255.2:2000
+PSEN1-mRNA,0.27,0.207,-0.135,0.675,1.21,0.911,1.6,0.206,1,lm.nb,"Astrocyte DifferentiationFunction, Neurogenesis, Neurotrophin Signaling, Wnt Signaling",NM_000021.2:900
+MX1-mRNA,0.23,0.179,-0.121,0.581,1.17,0.92,1.5,0.214,1,lm.nb,Interferon Signaling,NM_002462.2:1485
+ASNS-mRNA,-0.265,0.207,-0.672,0.142,0.832,0.628,1.1,0.216,1,lm.nb,Proteotoxic Stress,NM_183356.2:1644
+CKB-mRNA,0.204,0.163,-0.115,0.522,1.15,0.923,1.44,0.225,1,lm.nb,"Astrocyte Markers, Primed Microglia",NM_001823.4:320
+PRKDC-mRNA,-0.125,0.101,-0.323,0.0718,0.917,0.8,1.05,0.227,1,lm.nb,Cell Cycle,NM_001081640.1:2762
+ASS1-mRNA,0.311,0.25,-0.179,0.8,1.24,0.883,1.74,0.228,1,lm.nb,NO Metabolism and Signaling,NM_000050.4:1275
+NEFH-mRNA,-0.835,0.673,-2.15,0.484,0.56,0.225,1.4,0.229,1,lm.nb,"Cytoskeletal Dynamics, Neurogenesis, Neuronal Markers",NM_021076.3:1350
+C9orf72-mRNA,-0.289,0.233,-0.745,0.168,0.819,0.596,1.12,0.23,1,lm.nb,"Autophagy, Cytoskeletal Dynamics",NM_145005.6:242
+CDC42-mRNA,-0.154,0.126,-0.4,0.0927,0.899,0.758,1.07,0.236,1,lm.nb,"Cell Migration, Neurogenesis",NM_001039802.1:390
+CAMK2D-mRNA,-0.184,0.153,-0.483,0.115,0.88,0.715,1.08,0.241,1,lm.nb,Calcium Signaling,NM_172127.1:505
+PTH2R-mRNA,-1.32,1.09,-3.46,0.821,0.401,0.091,1.77,0.242,1,Wald,Neuroactive Ligands and Receptors,NM_001371906.1:1170
+TLR3-mRNA,1.04,0.865,-0.653,2.74,2.06,0.636,6.68,0.243,1,Wald,NF-kappaB Signaling,NM_003265.2:230
+GDPD2-mRNA,1.36,1.13,-0.857,3.58,2.57,0.552,12,0.244,1,Wald,,NM_001171191.1:1666
+ARNTL-mRNA,-0.229,0.192,-0.606,0.147,0.853,0.657,1.11,0.247,1,lm.nb,"Circadian Signaling, Dopaminergic Synapse",NM_001030272.1:840
+PECAM1-mRNA,0.405,0.341,-0.262,1.07,1.32,0.834,2.1,0.248,1,lm.nb,"Blood Brain Barrier, Cell Migration",NM_000442.3:1365
+ADORA3-mRNA,1.42,1.24,-1.01,3.86,2.68,0.495,14.5,0.267,1,Wald,"Neuroactive Ligands and Receptors, Purinergic Signaling",NM_000677.3:1524
+SGCE-mRNA,-0.162,0.142,-0.44,0.116,0.894,0.737,1.08,0.267,1,lm.nb,Cytoskeletal Dynamics,NM_001099400.1:1238
+CX3CR1-mRNA,0.494,0.434,-0.357,1.34,1.41,0.781,2.54,0.269,1,lm.nb,"Chemokines, Homeostatic Microglia, Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Primed Microglia, Stage 1 DAM",NM_001337.3:1040
+ARG2-mRNA,-0.256,0.228,-0.704,0.191,0.837,0.614,1.14,0.274,1,lm.nb,NO Metabolism and Signaling,NM_001172.3:512
+NF1-mRNA,-0.151,0.135,-0.416,0.114,0.901,0.75,1.08,0.278,1,lm.nb,"Astrocyte DifferentiationFunction, MAPK & PI3K, Neurogenesis, Oligodendrocyte DifferentiationMaturation",NM_000267.2:1035
+BACE1-mRNA,-0.192,0.172,-0.53,0.146,0.876,0.693,1.11,0.279,1,lm.nb,Cytoskeletal Dynamics,NM_012104.4:1185
+NPAS2-mRNA,-0.173,0.157,-0.48,0.134,0.887,0.717,1.1,0.283,1,lm.nb,Circadian Signaling,NM_002518.3:1458
+HSPA1A-mRNA,-0.704,0.645,-1.97,0.561,0.614,0.255,1.47,0.288,1,lm.nb,"Microglial Markers, Proteotoxic Stress",NM_005345.5:1875
+UBE2G1-mRNA,-0.109,0.1,-0.305,0.0874,0.927,0.809,1.06,0.29,1,lm.nb,"Antigen Processing and Presentation, Proteotoxic Stress",NM_003342.4:653
+ENO2-mRNA,-0.345,0.318,-0.968,0.277,0.787,0.511,1.21,0.29,1,lm.nb,"Glucose Metabolism, Hypoxia, Neuronal Markers",NM_001975.2:1420
+LRRC25-mRNA,1.09,1.02,-0.912,3.08,2.12,0.532,8.47,0.3,1,Wald,,NM_145256.2:796
+GRM1-mRNA,-0.315,0.3,-0.903,0.273,0.804,0.535,1.21,0.306,1,lm.nb,"Calcium Signaling, Cannabinoid Signaling, Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_000838.3:2055
+RET-mRNA,-0.907,0.875,-2.62,0.808,0.533,0.163,1.75,0.313,1,Wald,Neurogenesis,NM_020630.4:2911
+ADORA1-mRNA,-0.174,0.17,-0.507,0.158,0.886,0.704,1.12,0.316,1,lm.nb,"Neuroactive Ligands and Receptors, Purinergic Signaling",NM_000674.1:1150
+IFIT1-mRNA,-0.301,0.295,-0.88,0.278,0.812,0.544,1.21,0.321,1,lm.nb,Interferon Signaling,NM_001548.3:1440
+LAIR1-mRNA,1.23,1.23,-1.17,3.63,2.35,0.444,12.4,0.328,1,Wald,T-cell signaling,NM_001289023.2:864
+SYT13-mRNA,-0.258,0.261,-0.77,0.253,0.836,0.586,1.19,0.334,1,lm.nb,Cytoskeletal Dynamics,NM_001247987.2:848
+C3AR1-mRNA,1.32,1.34,-1.32,3.95,2.49,0.401,15.5,0.339,1,Wald,"Complement System, Neuroactive Ligands and Receptors, Primed Microglia",NM_004054.2:415
+PPM1A-mRNA,-0.17,0.174,-0.512,0.172,0.889,0.701,1.13,0.341,1,lm.nb,MAPK & PI3K,NM_021003.4:550
+MAP1LC3B-mRNA,-0.0785,0.0809,-0.237,0.0801,0.947,0.848,1.06,0.344,1,lm.nb,Autophagy,NM_022818.5:153
+RXFP1-mRNA,-0.906,0.94,-2.75,0.937,0.534,0.149,1.91,0.347,1,Wald,Neuroactive Ligands and Receptors,NM_021634.4:719
+SELPLG-mRNA,1.13,1.17,-1.17,3.42,2.18,0.446,10.7,0.348,1,Wald,"Cell Migration, Microglial Markers, Primed Microglia",NM_001206609.1:326
+GLA-mRNA,0.0961,0.101,-0.101,0.294,1.07,0.932,1.23,0.351,1,lm.nb,NO Metabolism and Signaling,NM_000169.2:980
+TSC1-mRNA,0.0923,0.0972,-0.0982,0.283,1.07,0.934,1.22,0.354,1,lm.nb,"Autophagy, Cytoskeletal Dynamics, Insulin Signaling, Neurogenesis",NM_001162427.1:2072
+C1QB-mRNA,0.979,1.03,-1.05,3,1.97,0.484,8.02,0.355,1,Wald,"Complement System, Homeostatic Microglia",NM_000491.3:819
+PSMB8-mRNA,0.294,0.311,-0.316,0.904,1.23,0.803,1.87,0.356,1,lm.nb,"A1 Astrocyte, Antigen Processing and Presentation, Interferon Signaling, Primed Microglia",NM_004159.4:1215
+AGMO-mRNA,0.988,1.04,-1.06,3.04,1.98,0.48,8.2,0.356,1,Wald,Lipid Metabolism,NM_001004320.1:320
+EMP1-mRNA,-0.645,0.686,-1.99,0.7,0.64,0.252,1.62,0.359,1,lm.nb,A2 Astrocyte,NM_001423.2:364
+GRM7-mRNA,-1.26,1.36,-3.92,1.39,0.416,0.066,2.63,0.363,1,Wald,"Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_000844.2:2575
+KHSRP-mRNA,-0.0699,0.0751,-0.217,0.0774,0.953,0.86,1.06,0.363,1,loglinear,Proteotoxic Stress,NM_001366299.1:900
+ARL6IP5-mRNA,-0.12,0.129,-0.372,0.133,0.92,0.773,1.1,0.364,1,lm.nb,Glutamatergic Synapse,NM_006407.4:210
+PNOC-mRNA,-0.908,0.978,-2.82,1.01,0.533,0.141,2.01,0.364,1,Wald,Cytoskeletal Dynamics,NM_001284244.1:416
+CD84-mRNA,0.805,0.88,-0.919,2.53,1.75,0.529,5.77,0.371,1,Wald,Primed Microglia,NM_003874.3:680
+CUL2-mRNA,-0.11,0.12,-0.346,0.126,0.927,0.787,1.09,0.372,1,lm.nb,"Antigen Processing and Presentation, Hypoxia",NM_003591.2:1395
+CX3CL1-mRNA,0.341,0.383,-0.41,1.09,1.27,0.752,2.13,0.384,1,lm.nb,Chemokines,NM_002996.4:1080
+TFEC-mRNA,0.936,1.05,-1.13,3,1.91,0.457,8.01,0.386,1,Wald,Microglia Neurodegenerative Phenotype (MGnD),NM_012252.2:890
+ABCG2-mRNA,0.274,0.314,-0.342,0.89,1.21,0.789,1.85,0.394,1,lm.nb,Blood Brain Barrier,NM_004827.2:2025
+FBXW11-mRNA,-0.102,0.117,-0.331,0.128,0.932,0.795,1.09,0.396,1,lm.nb,"Antigen Processing and Presentation, Circadian Signaling, Wnt Signaling",NM_033644.2:740
+ICAM2-mRNA,0.325,0.374,-0.409,1.06,1.25,0.753,2.08,0.396,1,lm.nb,Cell Migration,NM_000873.3:415
+PCCA-mRNA,0.124,0.144,-0.158,0.407,1.09,0.896,1.33,0.398,1,lm.nb,Lipid Metabolism,NM_000282.3:1022
+GAD1-mRNA,-0.179,0.209,-0.59,0.231,0.883,0.665,1.17,0.402,1,lm.nb,GABAergic Synapse,NM_000817.2:575
+FBXL3-mRNA,0.107,0.125,-0.138,0.352,1.08,0.909,1.28,0.403,1,lm.nb,"Antigen Processing and Presentation, Circadian Signaling",NM_012158.2:1565
+SLC25A4-mRNA,-0.178,0.212,-0.593,0.237,0.884,0.663,1.18,0.41,1,lm.nb,Calcium Signaling,NM_001151.4:375
+SLC24A3-mRNA,-0.219,0.263,-0.735,0.297,0.859,0.601,1.23,0.415,1,lm.nb,Primed Microglia,NM_020689.3:780
+TNFRSF11A-mRNA,-1.05,1.29,-3.57,1.47,0.484,0.0845,2.78,0.426,1,Wald,"Cytokines, NF-kappaB Signaling",NM_003839.3:226
+P2RX7-mRNA,0.21,0.259,-0.298,0.718,1.16,0.813,1.65,0.427,1,lm.nb,"Calcium Signaling, Inflammasome, Neuroactive Ligands and Receptors",NM_002562.5:780
+CRKL-mRNA,-0.0908,0.115,-0.316,0.135,0.939,0.803,1.1,0.439,1,lm.nb,"Insulin Signaling, MAPK & PI3K, Neurotrophin Signaling, Phagocytosis",NM_005207.4:885
+CSF3R-mRNA,1.41,1.79,-2.11,4.93,2.66,0.232,30.4,0.442,1,Wald,Cytokines,NM_000760.3:2066
+ATG2B-mRNA,-0.0822,0.105,-0.288,0.123,0.945,0.819,1.09,0.443,1,lm.nb,Autophagy,NM_018036.5:1722
+CLEC7A-mRNA,1.11,1.42,-1.67,3.89,2.16,0.313,14.9,0.444,1,Wald,"Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia, Stage 2 DAM",NM_197954.3:78
+DDAH1-mRNA,-0.137,0.176,-0.482,0.209,0.91,0.716,1.16,0.448,1,lm.nb,NO Metabolism and Signaling,NM_012137.2:620
+SERPINA3-mRNA,0.693,0.904,-1.08,2.47,1.62,0.473,5.52,0.453,1,lm.nb,Astrocyte Markers,NM_001085.4:1220
+CCNA1-mRNA,-1.09,1.42,-3.88,1.7,0.47,0.0679,3.25,0.453,1,Wald,Cell Cycle,NM_003914.3:1605
+DAGLA-mRNA,-0.175,0.23,-0.626,0.277,0.886,0.648,1.21,0.457,1,lm.nb,"Cannabinoid Signaling, Cytoskeletal Dynamics, Neurogenesis",NM_006133.2:150
+GJD2-mRNA,-0.931,1.23,-3.35,1.49,0.524,0.098,2.81,0.46,1,Wald,Gap Junctions,NM_020660.2:826
+TMSB4X-mRNA,0.0854,0.114,-0.138,0.308,1.06,0.909,1.24,0.462,1,lm.nb,"Cytoskeletal Dynamics, Homeostatic Microglia",NM_021109.4:86
+TLR2-mRNA,1.3,1.76,-2.14,4.74,2.47,0.228,26.8,0.466,1,Wald,"NO Metabolism and Signaling, Oligodendrocyte DifferentiationMaturation, Primed Microglia",NM_003264.3:2402
+OLFML3-mRNA,0.945,1.27,-1.55,3.44,1.92,0.341,10.9,0.467,1,Wald,"Microglial Markers, Primed Microglia",NM_020190.4:490
+TIAM1-mRNA,-0.173,0.234,-0.632,0.286,0.887,0.645,1.22,0.469,1,lm.nb,"Cytoskeletal Dynamics, Neurogenesis, Neurotrophin Signaling",NM_001353691.1:4520
+PTPRZ1-mRNA,0.203,0.276,-0.337,0.743,1.15,0.792,1.67,0.47,1,lm.nb,"Astrocyte Markers, Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_002851.2:2380
+TENM4-mRNA,-0.122,0.167,-0.449,0.204,0.919,0.733,1.15,0.471,1,lm.nb,"Myelogenesis, Neurogenesis, Oligodendrocyte DifferentiationMaturation",NM_001098816.3:5518
+UBE2D2-mRNA,-0.0545,0.0755,-0.202,0.0934,0.963,0.869,1.07,0.478,1,loglinear,"Antigen Processing and Presentation, Proteotoxic Stress",NM_181838.1:1088
+LYZ-mRNA,0.756,1.05,-1.31,2.82,1.69,0.403,7.08,0.482,1,Wald,"Microglia Neurodegenerative Phenotype (MGnD), Stage 1 DAM",NM_000239.2:305
+ATG12-mRNA,-0.0972,0.139,-0.369,0.174,0.935,0.774,1.13,0.491,1,lm.nb,Autophagy,NM_004707.3:634
+PTPRM-mRNA,-0.114,0.162,-0.431,0.204,0.924,0.742,1.15,0.491,1,lm.nb,"Cell Migration, Neurogenesis",NM_002845.3:1680
+CCNB1-mRNA,-0.123,0.178,-0.472,0.226,0.918,0.721,1.17,0.497,1,lm.nb,Cell Cycle,NM_031966.3:1102
+VEGFA-mRNA,-0.296,0.436,-1.15,0.558,0.814,0.451,1.47,0.504,1,lm.nb,"Angiogenesis, Hypoxia, Microglia Neurodegenerative Phenotype (MGnD), Neurogenesis",NM_001025366.1:1325
+TARDBP-mRNA,0.0707,0.105,-0.134,0.276,1.05,0.911,1.21,0.507,1,lm.nb,Proteotoxic Stress,NM_007375.3:476
+ALAS1-mRNA,-0.097,0.147,-0.384,0.19,0.935,0.766,1.14,0.516,1,lm.nb,Primed Microglia,NM_000688.4:395
+MSR1-mRNA,0.883,1.34,-1.75,3.51,1.84,0.298,11.4,0.518,1,Wald,Microglia Neurodegenerative Phenotype (MGnD),NM_002445.3:326
+ATR-mRNA,-0.137,0.21,-0.548,0.275,0.91,0.684,1.21,0.522,1,lm.nb,Cell Cycle,NM_001184.2:565
+RBX1-mRNA,-0.0623,0.0962,-0.251,0.126,0.958,0.84,1.09,0.524,1,lm.nb,"Cell Cycle, Circadian Signaling, Hypoxia, Proteotoxic Stress, Wnt Signaling",NM_014248.2:162
+GPR17-mRNA,0.78,1.21,-1.58,3.14,1.72,0.334,8.84,0.525,1,Wald,"Oligodendrocyte DifferentiationMaturation, Purinergic Signaling",NM_001161415.1:774
+GRK3-mRNA,-0.165,0.258,-0.67,0.34,0.892,0.628,1.27,0.529,1,lm.nb,Glutamatergic Synapse,NM_005160.2:1265
+MAPT-mRNA,-0.113,0.179,-0.464,0.238,0.925,0.725,1.18,0.535,1,lm.nb,"Astrocyte DifferentiationFunction, Cytoskeletal Dynamics, Neurogenesis",NM_016834.4:315
+ITGAX-mRNA,0.723,1.14,-1.52,2.96,1.65,0.349,7.79,0.535,1,Wald,"Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia, Stage 2 DAM",NM_000887.4:1128
+ALDH1A1-mRNA,0.961,1.52,-2.02,3.95,1.95,0.246,15.4,0.536,1,Wald,Astrocyte Markers,NM_000689.3:11
+FPR1-mRNA,0.888,1.41,-1.87,3.65,1.85,0.273,12.5,0.536,1,Wald,"Cytokines, Neuroactive Ligands and Receptors",NM_002029.3:350
+PTPN11-mRNA,0.0531,0.0844,-0.112,0.219,1.04,0.925,1.16,0.537,1,lm.nb,"Interferon Signaling, Neurogenesis, Neurotrophin Signaling",NM_002834.3:1480
+HACD2-mRNA,0.0919,0.146,-0.195,0.378,1.07,0.874,1.3,0.537,1,lm.nb,Lipid Metabolism,NM_198402.2:510
+PANX1-mRNA,-0.0766,0.122,-0.316,0.163,0.948,0.803,1.12,0.538,1,lm.nb,Inflammasome,NM_015368.3:610
+TLR7-mRNA,1.13,1.81,-2.42,4.68,2.19,0.187,25.7,0.54,1,Wald,NF-kappaB Signaling,NM_016562.3:3098
+CABLES1-mRNA,0.175,0.282,-0.378,0.729,1.13,0.77,1.66,0.541,1,lm.nb,Cell Cycle,NM_001256438.1:955
+USP2-mRNA,0.135,0.219,-0.294,0.564,1.1,0.816,1.48,0.544,1,lm.nb,"Microglial Markers, Primed Microglia",NM_001243759.1:676
+GRIN3A-mRNA,-0.323,0.531,-1.36,0.718,0.8,0.389,1.64,0.55,1,lm.nb,"Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_133445.2:3167
+GMPR2-mRNA,-0.0898,0.148,-0.38,0.201,0.94,0.768,1.15,0.552,1,lm.nb,Primed Microglia,NM_001002001.2:392
+TBK1-mRNA,0.0544,0.09,-0.122,0.231,1.04,0.919,1.17,0.552,1,lm.nb,"Autophagy, Cytokines, NF-kappaB Signaling",NM_013254.2:1610
+SPTAN1-mRNA,0.0702,0.116,-0.158,0.298,1.05,0.897,1.23,0.552,1,lm.nb,Neurogenesis,NM_001130438.1:6830
+MAD2L1-mRNA,-0.882,1.48,-3.79,2.03,0.543,0.0722,4.08,0.559,1,Wald,Cell Cycle,NM_002358.3:182
+NOSTRIN-mRNA,0.872,1.49,-2.05,3.79,1.83,0.242,13.8,0.565,1,Wald,,NM_001039724.3:1125
+PTPRC-mRNA,1.03,1.77,-2.43,4.5,2.05,0.186,22.6,0.565,1,Wald,"Cell Migration, Phagocytosis, T-cell signaling",NM_080923.2:154
+TM4SF1-mRNA,-0.25,0.428,-1.09,0.59,0.841,0.47,1.51,0.566,1,lm.nb,A2 Astrocyte,NM_014220.2:263
+GLUL-mRNA,0.138,0.24,-0.332,0.609,1.1,0.794,1.52,0.572,1,lm.nb,"GABAergic Synapse, Glutamatergic Synapse, Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia",NM_002065.6:1485
+TIE1-mRNA,0.99,1.73,-2.4,4.38,1.99,0.189,20.8,0.574,1,Wald,,NM_005424.2:2610
+SLC9B2-mRNA,-0.127,0.223,-0.563,0.309,0.916,0.677,1.24,0.575,1,lm.nb,Ion Transport,NM_178833.4:1448
+STAB1-mRNA,0.869,1.52,-2.12,3.86,1.83,0.23,14.5,0.575,1,Wald,Phagocytosis,NM_015136.2:95
+SLC2A5-mRNA,0.958,1.68,-2.34,4.25,1.94,0.198,19,0.575,1,Wald,"Glucose Metabolism, Microglial Markers, Primed Microglia",NM_003039.2:711
+GBP2-mRNA,-0.321,0.575,-1.45,0.806,0.801,0.367,1.75,0.583,1,lm.nb,"A1 Astrocyte, Interferon Signaling, Primed Microglia",NM_004120.3:780
+FCAR-mRNA,0.71,1.28,-1.8,3.22,1.64,0.288,9.29,0.585,1,Wald,,NM_133278.2:750
+TRAC-mRNA,0.786,1.42,-2,3.57,1.72,0.251,11.9,0.586,1,Wald,T-cell signaling,ENST00000611116.1:361
+LILRB4-mRNA,1.12,2.04,-2.87,5.11,2.17,0.136,34.5,0.59,1,Wald,"Microglia Neurodegenerative Phenotype (MGnD), Stage 2 DAM",NM_001278429.3:543
+FTH1-mRNA,0.0737,0.135,-0.191,0.339,1.05,0.876,1.26,0.592,1,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Stage 1 DAM",NM_002032.2:392
+IL10RA-mRNA,0.969,1.82,-2.6,4.54,1.96,0.165,23.2,0.6,1,Wald,Cytokines,NM_001558.2:150
+GZMB-mRNA,0.752,1.43,-2.05,3.56,1.68,0.241,11.8,0.606,1,Wald,Apoptosis,NM_004131.3:540
+P2RY14-mRNA,0.805,1.54,-2.21,3.82,1.75,0.217,14.1,0.606,1,Wald,"Neuroactive Ligands and Receptors, Purinergic Signaling",NM_014879.2:205
+LSR-mRNA,0.91,1.76,-2.54,4.36,1.88,0.172,20.6,0.611,1,Wald,Blood Brain Barrier,NM_205835.3:1888
+SLC7A8-mRNA,-0.137,0.269,-0.665,0.39,0.909,0.631,1.31,0.615,1,lm.nb,Ion Transport,NM_001267036.1:1172
+GJB1-mRNA,0.706,1.38,-2.01,3.42,1.63,0.249,10.7,0.616,1,Wald,Gap Junctions,NM_000166.5:165
+BIN1-mRNA,0.0735,0.144,-0.209,0.356,1.05,0.865,1.28,0.616,1,lm.nb,"Cytoskeletal Dynamics, Microglia Neurodegenerative Phenotype (MGnD), Phagocytosis, Primed Microglia",NM_004305.4:379
+NLRP1-mRNA,0.91,1.8,-2.62,4.44,1.88,0.163,21.7,0.619,1,Wald,Inflammasome,NM_033004.2:2135
+PLCB4-mRNA,0.0842,0.17,-0.249,0.417,1.06,0.842,1.34,0.625,1,lm.nb,"Calcium Signaling, Wnt Signaling",NM_182797.2:994
+SLC10A6-mRNA,0.632,1.28,-1.88,3.14,1.55,0.273,8.81,0.627,1,Wald,A2 Astrocyte,NM_197965.2:646
+SPHK1-mRNA,0.475,0.984,-1.45,2.4,1.39,0.365,5.29,0.635,1,Wald,"A2 Astrocyte, Calcium Signaling, Phagocytosis",NM_021972.2:895
+SOD1-mRNA,0.0634,0.132,-0.196,0.322,1.04,0.873,1.25,0.636,1,lm.nb,"Myelogenesis, Neurogenesis, Oxidative & Nitrosative Stress",NM_000454.4:245
+SLC6A1-mRNA,0.134,0.28,-0.415,0.684,1.1,0.75,1.61,0.637,1,lm.nb,"Astrocyte Markers, GABAergic Synapse",NM_003042.3:1315
+HSD11B1-mRNA,0.616,1.3,-1.93,3.16,1.53,0.263,8.95,0.641,1,Wald,,NM_181755.1:155
+F11R-mRNA,0.128,0.271,-0.403,0.66,1.09,0.756,1.58,0.641,1,lm.nb,"Cell Migration, Microglial Markers, Primed Microglia",NM_016946.5:749
+IL34-mRNA,-0.593,1.27,-3.08,1.9,0.663,0.118,3.72,0.646,1,Wald,Cytokines,NM_152456.1:860
+ADGRG1-mRNA,0.177,0.382,-0.572,0.926,1.13,0.673,1.9,0.648,1,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Neurogenesis",NM_005682.4:1145
+SLCO2B1-mRNA,0.969,2.11,-3.16,5.1,1.96,0.112,34.3,0.651,1,Wald,"Microglial Markers, Primed Microglia",NM_001145211.2:1974
+TMEM100-mRNA,0.561,1.26,-1.9,3.02,1.48,0.268,8.13,0.66,1,Wald,Astrocyte Markers,NM_018286.2:655
+CD4-mRNA,0.514,1.19,-1.81,2.84,1.43,0.284,7.17,0.67,1,Wald,T-cell signaling,NM_000616.4:975
+PTGS2-mRNA,-0.727,1.69,-4.04,2.59,0.604,0.0607,6.01,0.672,1,Wald,"A2 Astrocyte, Cannabinoid Signaling, Lipid Metabolism, NF-kappaB Signaling, NO Metabolism and Signaling, Serotonergic Synapse",NM_000963.1:495
+TRIM68-mRNA,0.0369,0.086,-0.132,0.205,1.03,0.913,1.15,0.672,1,loglinear,Interferon Signaling,NM_001304496.2:560
+CEP68-mRNA,-0.0493,0.115,-0.275,0.177,0.966,0.826,1.13,0.673,1,lm.nb,Primed Microglia,NM_015147.2:586
+CCNH-mRNA,0.0416,0.098,-0.15,0.234,1.03,0.901,1.18,0.676,1,lm.nb,Cell Cycle,NM_001199189.1:1152
+CHRM2-mRNA,-0.405,0.958,-2.28,1.47,0.755,0.205,2.78,0.678,1,Wald,"Calcium Signaling, Cholinergic Synapse, Neuroactive Ligands and Receptors",NM_001006630.1:1170
+KLRK1-mRNA,0.469,1.14,-1.77,2.7,1.38,0.294,6.51,0.686,1,Wald,,NM_007360.1:760
+GRM2-mRNA,-0.678,1.71,-4.02,2.67,0.625,0.0616,6.35,0.695,1,Wald,"Glutamatergic Synapse, Neuroactive Ligands and Receptors",NM_001349116.2:395
+MYCT1-mRNA,0.673,1.71,-2.67,4.02,1.59,0.157,16.2,0.697,1,Wald,,NM_025107.2:159
+PTK2-mRNA,-0.0325,0.0826,-0.194,0.129,0.978,0.874,1.09,0.698,1,lm.nb,Cell Migration,NM_005607.5:2431
+CTTNBP2NL-mRNA,-0.0541,0.14,-0.328,0.22,0.963,0.796,1.16,0.703,1,lm.nb,Microglial Markers,NM_018704.2:1074
+CD68-mRNA,0.601,1.62,-2.58,3.78,1.52,0.168,13.7,0.715,1,Wald,"Microglial Markers, Primed Microglia",NM_001251.2:1140
+TMEM119-mRNA,0.819,2.21,-3.51,5.15,1.76,0.0875,35.6,0.715,1,Wald,"Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Primed Microglia, Stage 1 DAM",NM_181724.2:415
+MAPK13-mRNA,0.625,1.69,-2.69,3.94,1.54,0.155,15.3,0.716,1,Wald,MAPK & PI3K,NM_002754.3:1050
+PFKP-mRNA,0.0615,0.168,-0.268,0.391,1.04,0.83,1.31,0.718,1,lm.nb,"Astrocyte Markers, Glucose Metabolism",NM_002627.3:795
+TPSAB1/B2-mRNA,0.478,1.32,-2.12,3.07,1.39,0.23,8.42,0.722,1,Wald,,NM_003294.3:579
+JAK2-mRNA,-0.0753,0.21,-0.486,0.336,0.949,0.714,1.26,0.723,1,lm.nb,"JAK-STAT, NO Metabolism and Signaling",NM_004972.3:1464
+TMEM88B-mRNA,0.402,1.12,-1.79,2.6,1.32,0.289,6.05,0.723,1,Wald,,NM_001146685.1:222
+SERPINE2-mRNA,0.0853,0.238,-0.381,0.552,1.06,0.768,1.47,0.724,1,lm.nb,"Microglial Markers, Neurogenesis",NM_006216.2:240
+B3GNT5-mRNA,0.551,1.54,-2.46,3.57,1.47,0.181,11.8,0.724,1,Wald,A2 Astrocyte,NM_032047.4:688
+SLC38A1-mRNA,0.0906,0.255,-0.409,0.591,1.06,0.753,1.51,0.726,1,lm.nb,"GABAergic Synapse, Glutamatergic Synapse",NM_001077484.1:1766
+P2RY11-mRNA,0.479,1.38,-2.23,3.18,1.39,0.214,9.09,0.732,1,Wald,"Neuroactive Ligands and Receptors, Purinergic Signaling",NM_002566.4:729
+CTNNB1-mRNA,0.0394,0.114,-0.185,0.264,1.03,0.88,1.2,0.734,1,lm.nb,Wnt Signaling,NM_001098210.1:1815
+SORL1-mRNA,0.0483,0.142,-0.23,0.326,1.03,0.853,1.25,0.737,1,lm.nb,"Microglial Markers, Neurogenesis",NM_003105.4:2599
+SELENOS-mRNA,0.843,2.53,-4.11,5.8,1.79,0.0578,55.7,0.742,1,Wald,"NO Metabolism and Signaling, Proteotoxic Stress",NM_203472.1:466
+ATP2B4-mRNA,0.0522,0.159,-0.26,0.365,1.04,0.835,1.29,0.747,1,lm.nb,"Calcium Signaling, Ion Transport, NO Metabolism and Signaling",NM_001684.4:2863
+NGF-mRNA,0.437,1.34,-2.18,3.06,1.35,0.22,8.32,0.747,1,Wald,"Cytokines, Cytoskeletal Dynamics, Neurogenesis, Neurotrophin Signaling",NM_002506.2:634
+KCND1-mRNA,0.83,2.56,-4.19,5.85,1.78,0.0547,57.8,0.749,1,Wald,Ion Transport,NM_004979.4:2400
+IRF8-mRNA,0.598,1.85,-3.02,4.22,1.51,0.123,18.6,0.75,1,Wald,Interferon Signaling,NM_002163.2:253
+HMGB1-mRNA,-0.036,0.115,-0.261,0.189,0.975,0.834,1.14,0.757,1,lm.nb,"Autophagy, Neurogenesis",NM_002128.4:208
+TAP1-mRNA,-0.34,1.12,-2.54,1.86,0.79,0.172,3.62,0.765,1,Wald,"Antigen Processing and Presentation, Primed Microglia",NM_000593.5:2075
+ACAT1-mRNA,0.0381,0.126,-0.209,0.286,1.03,0.865,1.22,0.766,1,lm.nb,Lipid Metabolism,NM_000019.3:282
+DLX1-mRNA,0.538,1.79,-2.98,4.05,1.45,0.127,16.6,0.768,1,Wald,"Neurogenesis, Oligodendrocyte DifferentiationMaturation, TGF-Beta Signaling",NM_001038493.2:240
+P2RY13-mRNA,0.584,1.95,-3.24,4.41,1.5,0.106,21.2,0.768,1,Wald,"Microglial Markers, Neuroactive Ligands and Receptors, Primed Microglia, Purinergic Signaling",NM_176894.2:211
+CCL2-mRNA,-0.186,0.624,-1.41,1.04,0.879,0.376,2.05,0.769,1,lm.nb,"Chemokines, Microglial Markers",NM_002982.3:123
+SRPRA-mRNA,-0.0456,0.155,-0.349,0.258,0.969,0.785,1.2,0.771,1,lm.nb,Proteotoxic Stress,NM_001177842.1:1065
+CCR5-mRNA,0.618,2.11,-3.51,4.75,1.53,0.0876,26.9,0.773,1,Wald,"Chemokines, Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia",NM_000579.3:366
+CD40-mRNA,0.583,2.06,-3.45,4.62,1.5,0.0915,24.5,0.78,1,Wald,"Microglial Markers, NF-kappaB Signaling",NM_001250.4:196
+EMCN-mRNA,0.501,1.79,-3.01,4.02,1.41,0.124,16.2,0.783,1,Wald,,NM_016242.3:160
+P2RY12-mRNA,0.0985,0.354,-0.595,0.792,1.07,0.662,1.73,0.784,1,lm.nb,"Homeostatic Microglia, Microglia Neurodegenerative Phenotype (MGnD), Microglial Markers, Primed Microglia, Purinergic Signaling, Stage 1 DAM",NM_022788.3:230
+CACNA1E-mRNA,-0.568,2.07,-4.62,3.49,0.674,0.0406,11.2,0.786,1,Wald,"Calcium Signaling, Ion Transport, MAPK & PI3K",NM_000721.3:4830
+MKRN1-mRNA,-0.0282,0.103,-0.23,0.173,0.981,0.853,1.13,0.787,1,lm.nb,Antigen Processing and Presentation,NM_013446.4:935
+ITGAM-mRNA,0.613,2.29,-3.87,5.09,1.53,0.0686,34.1,0.791,1,Wald,Cell Migration,NM_000632.3:515
+ADGRL4-mRNA,0.378,1.42,-2.41,3.17,1.3,0.188,8.97,0.793,1,Wald,Blood Brain Barrier,NM_022159.3:1980
+TRIM35-mRNA,-0.0455,0.173,-0.385,0.294,0.969,0.766,1.23,0.795,1,lm.nb,Interferon Signaling,NM_171982.3:886
+FBLN5-mRNA,0.466,1.77,-3.01,3.94,1.38,0.124,15.4,0.796,1,Wald,A1 Astrocyte,NM_006329.3:1728
+PMEPA1-mRNA,0.064,0.249,-0.424,0.552,1.05,0.746,1.47,0.799,1,lm.nb,TGF-Beta Signaling,NM_199171.2:254
+PTGIS-mRNA,0.42,1.64,-2.79,3.63,1.34,0.145,12.4,0.8,1,Wald,"Lipid Metabolism, NO Metabolism and Signaling",NM_000961.3:1409
+HILPDA-mRNA,-0.148,0.577,-1.28,0.984,0.903,0.412,1.98,0.801,1,lm.nb,Astrocyte Markers,NM_013332.1:345
+SMAD3-mRNA,0.0591,0.238,-0.407,0.526,1.04,0.754,1.44,0.806,1,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia, TGF-Beta Signaling, Wnt Signaling",NM_005902.3:1490
+ADGRA2-mRNA,0.374,1.52,-2.6,3.34,1.3,0.165,10.2,0.808,1,Wald,Blood Brain Barrier,NM_032777.9:1278
+EGF-mRNA,0.692,2.86,-4.91,6.3,1.62,0.0332,78.5,0.811,1,Wald,"Cytokines, MAPK & PI3K",NM_001963.4:1022
+HACD3-mRNA,-0.0277,0.116,-0.256,0.201,0.981,0.837,1.15,0.814,1,lm.nb,Lipid Metabolism,NM_016395.2:235
+STMN4-mRNA,0.0508,0.214,-0.37,0.471,1.04,0.774,1.39,0.815,1,lm.nb,"Cytoskeletal Dynamics, Neurogenesis, Oligodendrocyte Markers",NM_030795.2:362
+LGALS3-mRNA,-0.0864,0.372,-0.815,0.642,0.942,0.568,1.56,0.819,1,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia",NM_001177388.1:495
+EIF2B5-mRNA,-0.0182,0.0818,-0.179,0.142,0.987,0.884,1.1,0.826,1,lm.nb,"Astrocyte DifferentiationFunction, Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_003907.2:1098
+CNTF-mRNA,0.84,3.97,-6.94,8.62,1.79,0.00814,394,0.835,1,Wald,"Astrocyte DifferentiationFunction, Cytokines, Cytoskeletal Dynamics, Neurogenesis",NM_000614.3:45
+CACNA2D3-mRNA,-0.0452,0.214,-0.466,0.375,0.969,0.724,1.3,0.835,1,lm.nb,"Calcium Signaling, Ion Transport",NM_018398.2:205
+CDK7-mRNA,-0.519,2.47,-5.37,4.33,0.698,0.0242,20.1,0.836,1,Wald,Cell Cycle,NM_001799.2:785
+ADRB1-mRNA,-0.283,1.36,-2.96,2.39,0.822,0.129,5.24,0.838,1,Wald,"Calcium Signaling, Neuroactive Ligands and Receptors",NM_000684.1:795
+NOS2-mRNA,-0.218,1.07,-2.32,1.88,0.86,0.201,3.69,0.841,1,Wald,"Hypoxia, Microglia Neurodegenerative Phenotype (MGnD), NO Metabolism and Signaling, Oxidative & Nitrosative Stress",NM_000625.4:605
+NCAM2-mRNA,0.0342,0.17,-0.3,0.368,1.02,0.812,1.29,0.843,1,lm.nb,"Cell Migration, Neurogenesis",NM_004540.4:1364
+GAL3ST1-mRNA,0.385,1.92,-3.39,4.15,1.31,0.0957,17.8,0.844,1,Wald,Myelogenesis,NM_004861.1:1378
+LPL-mRNA,-0.398,2.05,-4.42,3.62,0.759,0.0468,12.3,0.848,1,Wald,"Microglia Neurodegenerative Phenotype (MGnD), Stage 2 DAM",NM_000237.2:736
+CLCF1-mRNA,0.19,0.982,-1.74,2.12,1.14,0.3,4.33,0.849,1,Wald,"A2 Astrocyte, Cytokines, Neurogenesis",NM_013246.2:452
+PRKAB1-mRNA,0.0306,0.173,-0.308,0.369,1.02,0.808,1.29,0.861,1,lm.nb,"Glucose Metabolism, Primed Microglia",NM_006253.4:471
+NRG1-mRNA,-0.285,1.62,-3.46,2.89,0.821,0.0909,7.4,0.862,1,Wald,"Myelogenesis, Neurogenesis, Oligodendrocyte DifferentiationMaturation",NM_004495.2:995
+TBR1-mRNA,-0.299,1.7,-3.62,3.03,0.813,0.0811,8.16,0.862,1,Wald,Neurogenesis,NM_006593.4:345
+E2F3-mRNA,-0.45,2.63,-5.6,4.7,0.732,0.0206,26,0.866,1,Wald,Cell Cycle,NM_001243076.2:290
+DLX2-mRNA,0.389,2.54,-4.59,5.37,1.31,0.0416,41.3,0.88,1,Wald,"Neurogenesis, Oligodendrocyte DifferentiationMaturation, TGF-Beta Signaling",NM_004405.3:590
+HEXB-mRNA,0.0206,0.145,-0.263,0.304,1.01,0.833,1.23,0.888,1,lm.nb,"Homeostatic Microglia, Microglial Markers, Neurogenesis",NM_000521.3:950
+MTOR-mRNA,-0.0128,0.095,-0.199,0.173,0.991,0.871,1.13,0.894,1,lm.nb,"Autophagy, Insulin Signaling, Neurogenesis",NM_004958.3:1865
+HAMP-mRNA,0.1,0.831,-1.53,1.73,1.07,0.347,3.31,0.905,1,Wald,"Microglial Markers, TGF-Beta Signaling",NM_021175.2:99
+FLT1-mRNA,0.0362,0.302,-0.556,0.629,1.03,0.68,1.55,0.906,1,lm.nb,"Hypoxia, MAPK & PI3K",NM_002019.4:530
+TRIM45-mRNA,0.265,2.33,-4.3,4.83,1.2,0.0506,28.5,0.911,1,Wald,Interferon Signaling,NM_025188.4:1500
+RNASEL-mRNA,0.258,2.28,-4.21,4.73,1.2,0.054,26.5,0.911,1,Wald,Interferon Signaling,NM_021133.3:1094
+TRIM46-mRNA,-0.141,1.34,-2.76,2.48,0.907,0.147,5.58,0.917,1,Wald,"Cytoskeletal Dynamics, Interferon Signaling, Neurogenesis",NM_025058.4:848
+ABCC8-mRNA,0.19,1.81,-3.35,3.73,1.14,0.0978,13.3,0.917,1,Wald,Ion Transport,NM_000352.4:1760
+CST3-mRNA,0.0313,0.305,-0.566,0.628,1.02,0.676,1.55,0.919,1,lm.nb,Homeostatic Microglia,NM_000099.2:402
+ADORA2B-mRNA,0.213,2.11,-3.92,4.34,1.16,0.0662,20.3,0.921,1,Wald,"Calcium Signaling, Neuroactive Ligands and Receptors, Purinergic Signaling",NM_000676.2:1043
+BECN1-mRNA,-0.0116,0.118,-0.243,0.22,0.992,0.845,1.16,0.923,1,lm.nb,Autophagy,NM_003766.2:810
+AMIGO2-mRNA,-0.0854,1.14,-2.31,2.14,0.943,0.201,4.41,0.941,1,Wald,A1 Astrocyte,NM_001143668.1:1525
+CROT-mRNA,-0.342,5.2,-10.5,9.85,0.789,0.000674,924,0.948,1,Wald,Lipid Metabolism,NM_021151.4:186
+CTSL-mRNA,-0.0164,0.275,-0.556,0.523,0.989,0.68,1.44,0.953,1,lm.nb,"Apoptosis, Autophagy, Microglia Neurodegenerative Phenotype (MGnD), Stage 2 DAM",NM_001912.4:1072
+PHYH-mRNA,-0.141,2.99,-6.01,5.73,0.907,0.0155,52.9,0.963,1,Wald,Lipid Metabolism,NM_001037537.1:1015
+NLRP3-mRNA,0.114,2.51,-4.8,5.03,1.08,0.0359,32.6,0.964,1,Wald,Inflammasome,NM_001079821.2:415
+GALC-mRNA,0.158,5.25,-10.1,10.4,1.12,0.000892,1390,0.976,1,Wald,"Myelogenesis, Primed Microglia",NM_000153.2:725
+SLC12A2-mRNA,0.00278,0.101,-0.195,0.201,1,0.873,1.15,0.978,1,lm.nb,Ion Transport,NM_001046.2:1255
+MBP-mRNA,-0.0113,0.449,-0.891,0.869,0.992,0.539,1.83,0.98,1,lm.nb,"Myelogenesis, Oligodendrocyte Markers",NM_002385.2:132
+CHCHD3-mRNA,-0.00195,0.081,-0.161,0.157,0.999,0.895,1.11,0.981,1,lm.nb,Glucose Metabolism,NM_017812.2:206
+IFIT3-mRNA,-0.0197,0.924,-1.83,1.79,0.986,0.281,3.46,0.983,1,Wald,Interferon Signaling,NM_001031683.2:1470
+KCNK13-mRNA,-0.0377,1.91,-3.78,3.71,0.974,0.0727,13,0.984,1,Wald,Ion Transport,NM_022054.3:1184
+ISLR2-mRNA,-0.0364,2.3,-4.55,4.48,0.975,0.0427,22.3,0.988,1,Wald,Neurogenesis,NM_001130136.1:820
+CNTNAP1-mRNA,-0.00422,0.279,-0.551,0.543,0.997,0.682,1.46,0.988,1,lm.nb,"Cell Migration, Cytoskeletal Dynamics, Myelogenesis, Oligodendrocyte DifferentiationMaturation",NM_003632.2:4050
+GPNMB-mRNA,0.00519,0.399,-0.777,0.787,1,0.584,1.73,0.99,1,lm.nb,"Microglia Neurodegenerative Phenotype (MGnD), Primed Microglia",NM_001005340.1:535
+FABP5-mRNA,-0.00487,0.526,-1.04,1.03,0.997,0.488,2.04,0.993,1,lm.nb,Microglia Neurodegenerative Phenotype (MGnD),NM_001444.1:100
+TRIM17-mRNA,0.00777,2.17,-4.25,4.26,1.01,0.0527,19.2,0.997,1,Wald,Interferon Signaling,NM_001024940.2:755

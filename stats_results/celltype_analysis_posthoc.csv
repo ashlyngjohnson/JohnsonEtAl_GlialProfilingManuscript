@@ -1,0 +1,4 @@
+celltype,.y.,group1,group2,n1,n2,p,p.signif,p.adj
+Astrocytes,celltype_score,Control,AD,8,8,0.059,ns,0.10816666666666666
+Astrocytes,celltype_score,Control,FTD,8,8,9.59e-5,****,0.00052745000000000005
+Astrocytes,celltype_score,AD,FTD,8,8,0.0106,*,0.02915

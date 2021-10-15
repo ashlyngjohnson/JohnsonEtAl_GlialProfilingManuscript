@@ -1,0 +1,118 @@
+pathway,.y.,group1,group2,n1,n2,p,p.signif,p.adj
+Antigen Processing and Presentation,pathway_score,Control,AD,8,8,0.223,ns,1
+Antigen Processing and Presentation,pathway_score,Control,FTD,8,8,0.00173,**,0.0318120475497177
+Antigen Processing and Presentation,pathway_score,AD,FTD,8,8,0.0296,*,0.2803962572607803
+Apoptosis,pathway_score,Control,AD,8,8,0.0332,*,0.2923507227397325
+Apoptosis,pathway_score,Control,FTD,8,8,9.72e-4,***,0.02250748335309507
+Apoptosis,pathway_score,AD,FTD,8,8,0.136,ns,0.8950344257371138
+Astrocyte DifferentiationFunction,pathway_score,Control,AD,8,8,0.0131,*,0.16059260998123387
+Astrocyte DifferentiationFunction,pathway_score,Control,FTD,8,8,6.07e-5,****,0.019573815651089087
+Astrocyte DifferentiationFunction,pathway_score,AD,FTD,8,8,0.0328,*,0.2923507227397325
+Astrocyte Markers,pathway_score,Control,AD,8,8,0.29,ns,1
+Astrocyte Markers,pathway_score,Control,FTD,8,8,3.83e-4,***,0.019573815651089087
+Astrocyte Markers,pathway_score,AD,FTD,8,8,0.00501,**,0.07457836745966023
+Autophagy,pathway_score,Control,AD,8,8,0.0307,*,0.28647584533168263
+Autophagy,pathway_score,Control,FTD,8,8,3.59e-4,***,0.019573815651089087
+Autophagy,pathway_score,AD,FTD,8,8,0.067,ns,0.4928109100187482
+Calcium Signaling,pathway_score,Control,AD,8,8,0.612,ns,1
+Calcium Signaling,pathway_score,Control,FTD,8,8,0.00271,**,0.043443931543367266
+Calcium Signaling,pathway_score,AD,FTD,8,8,0.0089,**,0.12365222335959636
+Cannabinoid Signaling,pathway_score,Control,AD,8,8,0.257,ns,1
+Cannabinoid Signaling,pathway_score,Control,FTD,8,8,3.89e-4,***,0.019573815651089087
+Cannabinoid Signaling,pathway_score,AD,FTD,8,8,0.00611,**,0.08883767654225508
+Cell Cycle,pathway_score,Control,AD,8,8,0.0519,ns,0.39075491932456713
+Cell Cycle,pathway_score,Control,FTD,8,8,4.09e-4,***,0.019573815651089087
+Cell Cycle,pathway_score,AD,FTD,8,8,0.0449,*,0.35850527281828637
+Cholinergic Synapse,pathway_score,Control,AD,8,8,0.191,ns,1
+Cholinergic Synapse,pathway_score,Control,FTD,8,8,4.85e-4,***,0.019573815651089087
+Cholinergic Synapse,pathway_score,AD,FTD,8,8,0.0114,*,0.14545652507102255
+Cytokines,pathway_score,Control,AD,8,8,0.0258,*,0.26420074545299765
+Cytokines,pathway_score,Control,FTD,8,8,3.56e-4,***,0.019573815651089087
+Cytokines,pathway_score,AD,FTD,8,8,0.0781,ns,0.561249824353999
+Cytoskeletal Dynamics,pathway_score,Control,AD,8,8,0.188,ns,1
+Cytoskeletal Dynamics,pathway_score,Control,FTD,8,8,5.98e-4,***,0.019573815651089087
+Cytoskeletal Dynamics,pathway_score,AD,FTD,8,8,0.0142,*,0.16750852390668236
+Dopaminergic Synapse,pathway_score,Control,AD,8,8,0.469,ns,1
+Dopaminergic Synapse,pathway_score,Control,FTD,8,8,0.00187,**,0.033403963389117275
+Dopaminergic Synapse,pathway_score,AD,FTD,8,8,0.0103,*,0.13701363979720993
+GABAergic Synapse,pathway_score,Control,AD,8,8,0.156,ns,0.9952288557491016
+GABAergic Synapse,pathway_score,Control,FTD,8,8,4.89e-4,***,0.019573815651089087
+GABAergic Synapse,pathway_score,AD,FTD,8,8,0.0151,*,0.17164797910693713
+Gap Junctions,pathway_score,Control,AD,8,8,0.0262,*,0.26420074545299765
+Gap Junctions,pathway_score,Control,FTD,8,8,1.04e-4,***,0.019573815651089087
+Gap Junctions,pathway_score,AD,FTD,8,8,0.0272,*,0.26571334514070566
+Glucose Metabolism,pathway_score,Control,AD,8,8,0.0356,*,0.3057523423536887
+Glucose Metabolism,pathway_score,Control,FTD,8,8,0.00107,**,0.023068014547712377
+Glucose Metabolism,pathway_score,AD,FTD,8,8,0.138,ns,0.8987363144465045
+Glutamatergic Synapse,pathway_score,Control,AD,8,8,0.306,ns,1
+Glutamatergic Synapse,pathway_score,Control,FTD,8,8,0.00169,**,0.0318120475497177
+Glutamatergic Synapse,pathway_score,AD,FTD,8,8,0.0186,*,0.20049769653619168
+Inflammasome,pathway_score,Control,AD,8,8,0.00463,**,0.0706027424964974
+Inflammasome,pathway_score,Control,FTD,8,8,0.00144,**,0.029041914003993637
+Inflammasome,pathway_score,AD,FTD,8,8,0.624,ns,1
+Insulin Signaling,pathway_score,Control,AD,8,8,0.0479,*,0.3697216915683312
+Insulin Signaling,pathway_score,Control,FTD,8,8,3.42e-4,***,0.019573815651089087
+Insulin Signaling,pathway_score,AD,FTD,8,8,0.0418,*,0.34386432900561903
+Ion Transport,pathway_score,Control,AD,8,8,0.231,ns,1
+Ion Transport,pathway_score,Control,FTD,8,8,0.00225,**,0.038019397555903826
+Ion Transport,pathway_score,AD,FTD,8,8,0.0357,*,0.3057523423536887
+JAK-STAT,pathway_score,Control,AD,8,8,0.0852,ns,0.5918634511369444
+JAK-STAT,pathway_score,Control,FTD,8,8,1.34e-4,***,0.019573815651089087
+JAK-STAT,pathway_score,AD,FTD,8,8,0.00952,**,0.1293908463293871
+Lipid Metabolism,pathway_score,Control,AD,8,8,0.0232,*,0.2417470434221322
+Lipid Metabolism,pathway_score,Control,FTD,8,8,1.89e-4,***,0.019573815651089087
+Lipid Metabolism,pathway_score,AD,FTD,8,8,0.0513,ns,0.39075491932456713
+MAPK & PI3K,pathway_score,Control,AD,8,8,0.2,ns,1
+MAPK & PI3K,pathway_score,Control,FTD,8,8,7.52e-4,***,0.019573815651089087
+MAPK & PI3K,pathway_score,AD,FTD,8,8,0.0162,*,0.1808637055159425
+Microglia Neurodegenerative Phenotype (MGnD),pathway_score,Control,AD,8,8,0.0106,*,0.13806673816134704
+Microglia Neurodegenerative Phenotype (MGnD),pathway_score,Control,FTD,8,8,0.00233,**,0.038335114190578584
+Microglia Neurodegenerative Phenotype (MGnD),pathway_score,AD,FTD,8,8,0.519,ns,1
+Microglial Markers,pathway_score,Control,AD,8,8,0.0221,*,0.2341880330053677
+Microglial Markers,pathway_score,Control,FTD,8,8,8.14e-4,***,0.019573815651089087
+Microglial Markers,pathway_score,AD,FTD,8,8,0.166,ns,1
+Myelogenesis,pathway_score,Control,AD,8,8,0.0389,*,0.3286565699832575
+Myelogenesis,pathway_score,Control,FTD,8,8,0.00104,**,0.023068014547712377
+Myelogenesis,pathway_score,AD,FTD,8,8,0.125,ns,0.8313934453714195
+Neuroactive Ligands and Receptors,pathway_score,Control,AD,8,8,0.188,ns,1
+Neuroactive Ligands and Receptors,pathway_score,Control,FTD,8,8,5.98e-4,***,0.019573815651089087
+Neuroactive Ligands and Receptors,pathway_score,AD,FTD,8,8,0.0142,*,0.16750852390668236
+Neurogenesis,pathway_score,Control,AD,8,8,0.189,ns,1
+Neurogenesis,pathway_score,Control,FTD,8,8,7.97e-4,***,0.019573815651089087
+Neurogenesis,pathway_score,AD,FTD,8,8,0.0184,*,0.20049769653619168
+Neurotrophin Signaling,pathway_score,Control,AD,8,8,0.339,ns,1
+Neurotrophin Signaling,pathway_score,Control,FTD,8,8,7.94e-4,***,0.019573815651089087
+Neurotrophin Signaling,pathway_score,AD,FTD,8,8,0.00788,**,0.1119690459737305
+NO Metabolism and Signaling,pathway_score,Control,AD,8,8,0.0401,*,0.33427780831818965
+NO Metabolism and Signaling,pathway_score,Control,FTD,8,8,7.12e-5,****,0.019573815651089087
+NO Metabolism and Signaling,pathway_score,AD,FTD,8,8,0.0123,*,0.15380113624614963
+Oligodendrocyte DifferentiationMaturation,pathway_score,Control,AD,8,8,0.00424,**,0.06627203431744659
+Oligodendrocyte DifferentiationMaturation,pathway_score,Control,FTD,8,8,2.05e-4,***,0.019573815651089087
+Oligodendrocyte DifferentiationMaturation,pathway_score,AD,FTD,8,8,0.216,ns,1
+Phagocytosis,pathway_score,Control,AD,8,8,0.112,ns,0.7529385112146498
+Phagocytosis,pathway_score,Control,FTD,8,8,7.25e-4,***,0.019573815651089087
+Phagocytosis,pathway_score,AD,FTD,8,8,0.0323,*,0.2923507227397325
+Primed Microglia,pathway_score,Control,AD,8,8,0.0525,ns,0.39075491932456713
+Primed Microglia,pathway_score,Control,FTD,8,8,6.89e-4,***,0.019573815651089087
+Primed Microglia,pathway_score,AD,FTD,8,8,0.0685,ns,0.4979853390461926
+Proteotoxic Stress,pathway_score,Control,AD,8,8,0.0473,*,0.36965415368104054
+Proteotoxic Stress,pathway_score,Control,FTD,8,8,0.00164,**,0.0318120475497177
+Proteotoxic Stress,pathway_score,AD,FTD,8,8,0.147,ns,0.9474799693313215
+Purinergic Signaling,pathway_score,Control,AD,8,8,0.0444,*,0.35850527281828637
+Purinergic Signaling,pathway_score,Control,FTD,8,8,7.39e-4,***,0.019573815651089087
+Purinergic Signaling,pathway_score,AD,FTD,8,8,0.0849,ns,0.5918634511369444
+Serotonergic Synapse,pathway_score,Control,AD,8,8,0.395,ns,1
+Serotonergic Synapse,pathway_score,Control,FTD,8,8,0.00203,**,0.03525477716572761
+Serotonergic Synapse,pathway_score,AD,FTD,8,8,0.0149,*,0.17164797910693713
+Stage 2 DAM,pathway_score,Control,AD,8,8,0.0279,*,0.2683584553638258
+Stage 2 DAM,pathway_score,Control,FTD,8,8,0.00125,**,0.026050327954971145
+Stage 2 DAM,pathway_score,AD,FTD,8,8,0.188,ns,1
+T-cell signaling,pathway_score,Control,AD,8,8,0.0848,ns,0.5918634511369444
+T-cell signaling,pathway_score,Control,FTD,8,8,7.55e-4,***,0.019573815651089087
+T-cell signaling,pathway_score,AD,FTD,8,8,0.0453,*,0.35850527281828637
+TGF-Beta Signaling,pathway_score,Control,AD,8,8,0.0901,ns,0.6190244963717538
+TGF-Beta Signaling,pathway_score,Control,FTD,8,8,5.64e-4,***,0.019573815651089087
+TGF-Beta Signaling,pathway_score,AD,FTD,8,8,0.033,*,0.2923507227397325
+Wnt Signaling,pathway_score,Control,AD,8,8,0.106,ns,0.7203481991026802
+Wnt Signaling,pathway_score,Control,FTD,8,8,5.52e-4,***,0.019573815651089087
+Wnt Signaling,pathway_score,AD,FTD,8,8,0.027,*,0.26571334514070566
