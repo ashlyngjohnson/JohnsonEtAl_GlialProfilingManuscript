@@ -2,7 +2,7 @@
 
 The purpose of this repository is to provide the code and files used for the analysis conducted in the manuscript with the above title.
 
-Paper published here: https://doi-org.proxy.library.emory.edu/10.1016/j.neurobiolaging.2021.12.005
+Paper published here: https://doi.org/10.1016/j.neurobiolaging.2021.12.005
 
 Important notes for navigation of the repository: 
 * **.md** files contain code for various analyses and visualization efforts. 
